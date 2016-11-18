@@ -1,15 +1,20 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-import json, requests, random, re, sys
+# Sytem dependencies
+import json
 from pprint import pprint
 
+# Vendors
+import requests
+
+# Django
 from django.views import generic
 from django.http.response import HttpResponse
-
 from django.views.decorators.csrf import csrf_exempt
 from django.utils.decorators import method_decorator
 
+# App
 from messengerbot import MessengerClient, messages, attachments, templates, elements
 
 #  ------------------------ Fill this with your page access token! -------------------------------
@@ -52,7 +57,6 @@ def handle_welcome(fbid, received_message):
     request = messages.MessageRequest(recipient, message)
     messenger.send(request)
 
-
 # TODO: change the function, call API
 def handle_color(fbid, received_message):
     recipient = messages.Recipient(recipient_id=fbid)
@@ -62,21 +66,35 @@ def handle_color(fbid, received_message):
     messenger.send(request)
 
 
-# FIXME rename class into something proper...
-class YoMamaBotView(generic.View):
+class FacebookCallbackView(generic.View):
+    """
+    This endpoint serves as the Facebook Messenger callback
 
-    def get(self, request, *args, **kwargs):
-        if self.request.GET['hub.verify_token'] == VERIFY_TOKEN:
-            return HttpResponse(self.request.GET['hub.challenge'])
-        else:
-            return HttpResponse('Error, invalid token')
+    Cf. docs: https://developers.facebook.com/docs/graph-api/webhooks
+    """
 
     @method_decorator(csrf_exempt)
     def dispatch(self, request, *args, **kwargs):
         return generic.View.dispatch(self, request, *args, **kwargs)
 
-    # Post function to handle Facebook messages
+    def get(self, request, *args, **kwargs):
+        """
+        Handles server verification performed by Facebook
+        """
+        token = request.GET.get('hub.verify_token')
+        challenge = request.GET.get('hub.challenge')
+        if token == VERIFY_TOKEN:
+            if challenge:
+                return HttpResponse(challenge)
+            else:
+                HttpResponse('Error, invalid challenge')
+        else:
+            return HttpResponse('Error, invalid token')
+
     def post(self, request, *args, **kwargs):
+        """
+        Handles Facebook messages
+        """
         # Converts the text payload into a python dictionary
         incoming_message = json.loads(self.request.body.decode('utf-8'))
 
@@ -96,8 +114,3 @@ class YoMamaBotView(generic.View):
                     if 'postback' in message:
                         post_facebook_message(message['sender']['id'], message['postback']['payload'])
         return HttpResponse()
-
-
-class HelloView(generic.View):
-    def get(self, request, *args, **kwargs):
-        return HttpResponse("Hello World!")

@@ -69,6 +69,7 @@ def handle_color(fbid, received_message):
 class FacebookCallbackView(generic.View):
     """
     This endpoint serves as the Facebook Messenger callback
+    The bot can be messaged at this url: http://m.me/scorelab.winehelper
 
     Cf. docs: https://developers.facebook.com/docs/graph-api/webhooks
     """

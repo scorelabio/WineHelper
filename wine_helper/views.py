@@ -62,6 +62,7 @@ def handle_color(fbid, received_message):
     messenger.send(request)
 
 
+# FIXME rename class into something proper...
 class YoMamaBotView(generic.View):
 
     def get(self, request, *args, **kwargs):

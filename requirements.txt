@@ -1,0 +1,4 @@
+Django==1.10.3
+gunicorn==19.6.0
+messengerbot==0.1.4
+requests==2.12.1

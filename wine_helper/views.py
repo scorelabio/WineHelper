@@ -7,6 +7,8 @@ from pprint import pprint
 
 # Vendors
 import requests
+# https://github.com/geeknam/messengerbot
+from messengerbot import MessengerClient, messages, attachments, templates, elements
 
 # Django
 from django.views import generic
@@ -14,8 +16,6 @@ from django.http.response import HttpResponse
 from django.views.decorators.csrf import csrf_exempt
 from django.utils.decorators import method_decorator
 
-# App
-from messengerbot import MessengerClient, messages, attachments, templates, elements
 
 #  ------------------------ Fill this with your page access token! -------------------------------
 PAGE_ACCESS_TOKEN = "EAAYU6e7AspIBAHvYtRp44RebfWQGlVRUNTTIpqmd27i6nSHCW61noR7yDOrpGlzaRaRO2NreAXful5OlodZAy7xB9Y6SftRW9YfYl4aQ0MPD2HLa3Ey2k6hvfVfEVxuHIMmAkgJ9gnrbdFuVbXr6wMFQzPUteYmk0x5heegZDZD"
@@ -96,7 +96,7 @@ class FacebookCallbackView(generic.View):
         Handles Facebook messages
         """
         # Converts the text payload into a python dictionary
-        incoming_message = json.loads(self.request.body.decode('utf-8'))
+        incoming_message = json.loads(request.body.decode('utf-8'))
 
         # Facebook recommends going through every entry since they might send
         # multiple messages in a single call during high load

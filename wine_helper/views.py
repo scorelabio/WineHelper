@@ -15,10 +15,11 @@ from django.views.decorators.csrf import csrf_exempt
 from django.utils.decorators import method_decorator
 
 import send_response as sr
+import wit_handler as wit
 
 #  ------------------------ Tokens -------------------------------
 PAGE_ACCESS_TOKEN = "EAAYU6e7AspIBAHvYtRp44RebfWQGlVRUNTTIpqmd27i6nSHCW61noR7yDOrpGlzaRaRO2NreAXful5OlodZAy7xB9Y6SftRW9YfYl4aQ0MPD2HLa3Ey2k6hvfVfEVxuHIMmAkgJ9gnrbdFuVbXr6wMFQzPUteYmk0x5heegZDZD"
-VERIFY_TOKEN = "verify_me" # TODO: change token
+VERIFY_TOKEN = "b2ac128f9d0c4ba8fdfad7b37eb66b8f2e86d09a75c6720a43"
 
 
 
@@ -71,5 +72,6 @@ class FacebookCallbackView(generic.View):
                     received_message = message['postback']['payload']
 
                 if sender_id is not None and received_message is not None:
-                    sr.post_facebook_message(sender_id, received_message)
+                    json_answer = wit.treatment(received_message.encode('utf-8'))
+                    sr.send_facebook_message(sender_id, json_answer)
         return HttpResponse()

@@ -1,3 +1,6 @@
+# coding: utf8
+from __future__ import unicode_literals
+
 import requests as re
 import Wine as W
 import Criteria as C
@@ -18,14 +21,13 @@ def get_wines_by_criteria(criteria):
     data = response.json()
     wine_list = []
     for wine in data:
-        wine_object = W.Wine(wine['appellation'],wine['name'],wine['color'],wine['vintage'],
+        wine_object = W.Wine(wine['appellation'].encode("ascii","ignore"),wine['name'].encode("ascii","ignore"),wine['color'],wine['vintage'],
                             wine['price'],wine['global_score'])
         wine_list.append(wine_object)
     return wine_list
 
 
 criteria = []
-criteria.append(C.Criteria("color", "red"))
-criteria.append(C.Criteria("priceMin", "50"))
+criteria.append(C.Criteria("color", "rouge"))
 
 print(get_wines_by_criteria(criteria))

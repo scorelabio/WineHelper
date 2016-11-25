@@ -61,7 +61,7 @@ def getForecast(request):
     currency = first_entity_value(entities, 'wit_currency')
 
     if entities:
-        if entities['intent']:
+        if 'intent' in entities and entities['intent']:
             if entities['intent'][0]['value'] == "adjective":
                 context['missingAdjective'] = True
                 if context.get('forecast') is not None:
@@ -93,7 +93,7 @@ def getForecast(request):
             context['api_call'] = True
             context['criteria'] = []
             color_criterion = {}
-            color_criterion['name'] = 'color'
+            color_criterion['name'] = 'color.fr'
             color_criterion['value'] = color
             context['criteria'].append(color_criterion)
             if context.get('missingAdjective') is not None:

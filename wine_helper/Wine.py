@@ -29,4 +29,4 @@ class Wine:
         return self.name + " (" + self.appellation + ")"
 
     def __repr__(self):
-        return self.appellation
+        return self.name + " (" + self.appellation + ")"

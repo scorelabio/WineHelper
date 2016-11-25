@@ -18,7 +18,7 @@ class FacebookCallbackTest(TestCase):
         """
         self.assertEqual(
             reverse('facebook_callback'),
-            '/fb_yomamabot/9850eea4020c130fb92af877a626248479ef038f67a8638090',
+            '/wine_helper/9850eea4020c130fb92af877a626248479ef038f67a8638090',
             )
 
     @mock.patch('messengerbot.MessengerClient.send')

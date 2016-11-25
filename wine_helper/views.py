@@ -22,8 +22,6 @@ PAGE_ACCESS_TOKEN = "EAAYU6e7AspIBAHvYtRp44RebfWQGlVRUNTTIpqmd27i6nSHCW61noR7yDO
 VERIFY_TOKEN = "b2ac128f9d0c4ba8fdfad7b37eb66b8f2e86d09a75c6720a43"
 
 
-
-
 class FacebookCallbackView(generic.View):
     """
     This endpoint serves as the Facebook Messenger callback

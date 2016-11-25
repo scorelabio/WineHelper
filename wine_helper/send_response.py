@@ -23,11 +23,6 @@ def send_facebook_message(fbid, data):
     """
     recipient = messages.Recipient(recipient_id=fbid)
 
-    pprint("[DEBUG] TYPE DATA")
-    pprint(type(data))
-    pprint("[DEBUG] DATA")
-    pprint(data)
-
     if 'type' in data:
         if (data["type"] == "text"):
             handle_text(fbid, data)
@@ -50,7 +45,7 @@ def handle_text(fbid, data):
         criteria = data["criteria"]
         criteria_list = []
         for criterion in criteria:
-            crit = Criteria(criterion["name"],criterion["value"])
+            crit = Criteria(criterion["name"], criterion["value"])
             criteria_list.append(crit)
         wine_list = api.get_wines_by_criteria(criteria_list)
         text = ""
@@ -58,7 +53,7 @@ def handle_text(fbid, data):
         for wine in wine_list:
             text += wine.get_name().decode('utf-8')
             text += "," + wine.get_appellation().decode('utf-8')
-            text += "," + wine.get_vintage()
+            text += "," + str(wine.get_vintage())
             text += "\n"
 
         pprint(wine_list)

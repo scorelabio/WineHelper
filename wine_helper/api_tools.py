@@ -8,7 +8,7 @@ import Criteria as C
 # "Constants" (variables that should not change)
 API_BASE_URL = "http://wine-helper-fake-api.herokuapp.com/public/api/wines"
 
-# Warning: takes only color in French
+
 def get_wines_by_criteria(criteria):
     """
     Makes an API call with the given criteria and returns a list of wines
@@ -30,10 +30,17 @@ def get_wines_by_criteria(criteria):
         wine_object = W.Wine(
             wine['appellation'].encode('utf-8'),
             wine['name'].encode('utf-8'),
-            wine['color']['fr'].encode('utf-8'), # TODO: handle English case too
-            wine['vintage'],
-            wine['price'],
-            wine['globalScore']
+            int(wine['vintage']),
+            float(wine['price']),
+            float(wine['globalScore']),
+            {
+                'fr': wine['color']['fr'].encode('utf-8'),
+                'en': wine['color']['en'].encode('utf-8')
+            },
+            {
+                'fr': wine['taste']['fr'].encode('utf-8'),
+                'en': wine['taste']['en'].encode('utf-8')
+            }
         )
         wine_list.append(wine_object)
     return wine_list

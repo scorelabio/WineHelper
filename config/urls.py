@@ -19,5 +19,5 @@ from django.contrib import admin
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     # FIXME change this to `r'^wine_helper/'` ?
-    url(r'^fb_yomamabot/', include('wine_helper.urls')),
+    url(r'^wine_helper/', include('wine_helper.urls')),
 ]

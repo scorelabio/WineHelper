@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # Sytem dependencies
+import os
 import json
 from pprint import pprint
 
@@ -13,8 +14,7 @@ import api_tools as api
 from Criteria import Criteria
 
 # Initializing client
-PAGE_ACCESS_TOKEN = "EAAYU6e7AspIBAHvYtRp44RebfWQGlVRUNTTIpqmd27i6nSHCW61noR7yDOrpGlzaRaRO2NreAXful5OlodZAy7xB9Y6SftRW9YfYl4aQ0MPD2HLa3Ey2k6hvfVfEVxuHIMmAkgJ9gnrbdFuVbXr6wMFQzPUteYmk0x5heegZDZD"
-messenger = MessengerClient(access_token=PAGE_ACCESS_TOKEN)
+messenger = MessengerClient(access_token=os.getenv('FB_PAGE_TOKEN'))
 
 
 def send_facebook_message(fbid, data):

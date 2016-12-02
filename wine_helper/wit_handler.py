@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # Sytem dependencies
+import os
 import json
 
 # Vendors
@@ -124,7 +125,7 @@ actions = {
 
 
 
-client = Wit(access_token="KUYTEM3SA2QPYI4P6T6JC2QJE7YDQPXC", actions=actions)
+client = Wit(access_token=os.getenv('WIT_TOKEN'), actions=actions)
 
 def treatment(request):
     session_id = 'my-user-session-42'

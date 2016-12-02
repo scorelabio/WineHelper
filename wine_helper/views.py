@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # Sytem dependencies
+import os
 import json
 from pprint import pprint
 
@@ -16,10 +17,6 @@ from django.utils.decorators import method_decorator
 
 import send_response as sr
 import wit_handler as wit
-
-#  ------------------------ Tokens -------------------------------
-PAGE_ACCESS_TOKEN = "EAAYU6e7AspIBAHvYtRp44RebfWQGlVRUNTTIpqmd27i6nSHCW61noR7yDOrpGlzaRaRO2NreAXful5OlodZAy7xB9Y6SftRW9YfYl4aQ0MPD2HLa3Ey2k6hvfVfEVxuHIMmAkgJ9gnrbdFuVbXr6wMFQzPUteYmk0x5heegZDZD"
-VERIFY_TOKEN = "b2ac128f9d0c4ba8fdfad7b37eb66b8f2e86d09a75c6720a43"
 
 
 class FacebookCallbackView(generic.View):
@@ -40,7 +37,7 @@ class FacebookCallbackView(generic.View):
         """
         token = request.GET.get('hub.verify_token')
         challenge = request.GET.get('hub.challenge')
-        if token == VERIFY_TOKEN:
+        if token == os.getenv('FB_VERIFY_TOKEN'):
             if challenge:
                 return HttpResponse(challenge)
             else:

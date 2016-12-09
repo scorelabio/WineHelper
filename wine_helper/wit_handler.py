@@ -7,6 +7,7 @@ import json
 
 # Vendors
 from wit import Wit
+from pprint import pprint
 
 
 
@@ -57,6 +58,8 @@ def getForecast(request):
     preTreatment(context)
 
     color = first_entity_value(entities, 'wit_color')
+    pprint("[DEBUG] wit color")
+    pprint(color)
     minprice = first_entity_value(entities, 'wit_minprice')
     maxprice = first_entity_value(entities, 'wit_maxprice')
     currency = first_entity_value(entities, 'wit_currency')
@@ -89,7 +92,7 @@ def getForecast(request):
                 if context.get('missingAdjective') is not None:
                     del context['missingAdjective']
 
-        if color:
+        if color is not None:
             context['type'] = 'text'
             context['api_call'] = True
             context['criteria'] = []
@@ -130,6 +133,8 @@ client = Wit(access_token=os.getenv('WIT_TOKEN'), actions=actions)
 def treatment(request):
     session_id = 'my-user-session-42'
     context0 = {}
+    pprint("[DEBUG] wit request")
+    pprint(request)
     context1 = client.run_actions(session_id, request, context0)
     #client.interactive()
     return context1

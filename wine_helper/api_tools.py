@@ -9,15 +9,15 @@ import Criteria as C
 API_BASE_URL = "http://wine-helper-fake-api.herokuapp.com/public/api/wines"
 
 
-def get_wines_by_criteria(criteria):
+def get_wines_by_criteria(criteria, limit=0):
     """
     Makes an API call with the given criteria and returns a list of wines
     (class Wine)
     """
     url = API_BASE_URL
-    query = ""
-    if criteria:
-        query += "?"
+    # setting limit
+    query = "?limit= {0}".format(limit)
+    # setting criteria
     for criterion in criteria:
         # TODO: remove last &
         query += criterion.get_name() + "=" + criterion.get_value() + "&"

@@ -13,6 +13,9 @@ from messengerbot import MessengerClient, messages, attachments, templates, elem
 import api_tools as api
 from Criteria import Criteria
 
+# "Constants" (variables that should not change)
+RESULTS_LIMIT = 3
+
 # Initializing client
 messenger = MessengerClient(access_token=os.getenv('FB_PAGE_TOKEN'))
 
@@ -47,7 +50,7 @@ def handle_text(fbid, data):
         for criterion in criteria:
             crit = Criteria(criterion["name"], criterion["value"])
             criteria_list.append(crit)
-        wine_list = api.get_wines_by_criteria(criteria_list)
+        wine_list = api.get_wines_by_criteria(criteria_list, RESULTS_LIMIT)
         text = ""
 
         for wine in wine_list:

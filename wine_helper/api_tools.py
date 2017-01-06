@@ -48,3 +48,16 @@ def get_wines_by_criteria(criteria, limit=0):
         )
         wine_list.append(wine_object)
     return wine_list
+
+
+def build_wine_list (data,limit):
+    criteria = data["criteria"]
+    pprint("[DEBUG] WIT CRITERIA")
+    criteria_list = []
+    for criterion in criteria:
+        pprint(criterion)
+        crit = C.Criteria(criterion["name"], criterion["value"])
+        criteria_list.append(crit)
+    pprint("[DEBUG] BUILT CRITERIA")
+    #pprint(criteria_list)
+    return get_wines_by_criteria(criteria_list, limit)

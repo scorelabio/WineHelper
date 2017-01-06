@@ -45,16 +45,7 @@ def handle_text(fbid, data):
         request = messages.MessageRequest(recipient, message)
         messenger.send(request)
     else:
-        criteria = data["criteria"]
-        pprint("[DEBUG] WIT CRITERIA")
-        criteria_list = []
-        for criterion in criteria:
-            pprint(criterion)
-            crit = Criteria(criterion["name"], criterion["value"])
-            criteria_list.append(crit)
-        pprint("[DEBUG] BUILT CRITERIA")
-        #pprint(criteria_list)
-        wine_list = api.get_wines_by_criteria(criteria_list, RESULTS_LIMIT)
+        wine_list = api.build_wine_list(data, RESULTS_LIMIT)
         text = "Voici les meilleurs vins présentants les critères recherchés :\n".decode('utf-8')
         res = ""
 

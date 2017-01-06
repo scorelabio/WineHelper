@@ -1,6 +1,9 @@
 Django==1.10.3
 gunicorn==19.6.0
 messengerbot==0.1.4
+mongoengine==0.11.0
+pymongo==3.4.0
 requests==2.12.1
 simplejson==3.10.0
+six==1.10.0
 wit==4.2.0

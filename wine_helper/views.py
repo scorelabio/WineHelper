@@ -17,6 +17,7 @@ from django.utils.decorators import method_decorator
 
 import send_response as sr
 import wit_handler as wit
+from wine_helper.models import Search
 
 
 class FacebookCallbackView(generic.View):
@@ -35,6 +36,7 @@ class FacebookCallbackView(generic.View):
         """
         Handles server verification performed by Facebook
         """
+        pprint("[DEBUG][GET]")
         token = request.GET.get('hub.verify_token')
         challenge = request.GET.get('hub.challenge')
         if token == os.getenv('FB_VERIFY_TOKEN'):
@@ -49,6 +51,7 @@ class FacebookCallbackView(generic.View):
         """
         Handles Facebook messages
         """
+        pprint("[DEBUG][POST]")
         # Converts the text payload into a python dictionary
         incoming_message = json.loads(request.body.decode('utf-8'))
 
@@ -67,6 +70,8 @@ class FacebookCallbackView(generic.View):
                     received_message = message['postback']['payload']
 
                 if sender_id is not None and received_message is not None:
+                    pprint(received_message)
                     json_answer = wit.treatment(received_message.encode('utf-8'))
+                    pprint(json_answer)
                     sr.send_facebook_message(sender_id, json_answer)
         return HttpResponse()

@@ -9,20 +9,13 @@ import json
 from wit import Wit
 from pprint import pprint
 
-
-
-def wines():
-    return [{"appellation":"Pomerol","name":"Chateau Clinet","color":"red","vintage":"2011","price":"79","global_score":"95.14"},{"appellation":"Barsac","name":"Ch\u00e2teau Coutet","color":"white","vintage":"2009","price":"72.9","global_score":"95"},{"appellation":"Pomerol","name":"Petrus","color":"red","vintage":"2015","price":"87.53","global_score":"94.62"},{"appellation":"Languedoc","name":"T\u00eate de b\u00e9lier blanc","color":"white","vintage":"2014","price":"23.5","global_score":"94.2"},{"appellation":"Barsac","name":"Ch\u00e2teau Climens","color":"white","vintage":"2006","price":"78.9","global_score":"94.02"},{"appellation":"Haut-m\u00e9doc","name":"Ch\u00e2teau Bernadette","color":"red","vintage":"2012","price":"16.9","global_score":"93.67"},{"appellation":"Morgon","name":"Morgon","color":"red","vintage":"2015","price":"17","global_score":"93"},{"appellation":"Pomerol","name":"Ch\u00e2teau La Pointe","color":"red","vintage":"2011","price":"34.1","global_score":"90.74"},{"appellation":"Languedoc","name":"Prodige rose","color":"rose","vintage":"2015","price":"12.5","global_score":"90.5"},{"appellation":"C\u00f4tes de Provence","name":"MiP classic","color":"rose","vintage":"2015","price":"9.95","global_score":"90.17"},{"appellation":"Blaye","name":"Ch\u00e2teau La Roche Bazin","color":"red","vintage":"2014","price":"10.5","global_score":"90.15"},{"appellation":"Pomerol","name":"Carillon de Rouget","color":"red","vintage":"2011","price":"23.9","global_score":"89.82"},{"appellation":"Pays d'Oc","name":"Gris blanc","color":"rose","vintage":"2015","price":"8.1","global_score":"89.72"},{"appellation":"Graves","name":"Ch\u00e2teau d'Uza","color":"red","vintage":"2011","price":"12.9","global_score":"88.27"},{"appellation":"C\u00f4tes des Gascogne IGP","name":"Premi\u00e8res Grives","color":"white","vintage":"2015","price":"7.25","global_score":"87.1"},{"appellation":"C\u00f4tes des Gascogne IGP","name":"Colombard-Ugni blanc n\u00b03","color":"white","vintage":"2015","price":"5.5","global_score":"82.64"}]
-
-
-
-
+# /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
+# TODO: clean file (remove unused code, add comments, etc.)
+# /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\ /!\
 
 
 def send(request, response):
     data = request['context']
-    if data.get('missingAdjective') is not None:
-        del data['missingAdjective']
     json_data = json.dumps(data)
     print('Sending to server...', json_data)
 
@@ -42,21 +35,22 @@ def first_entity_value(entities, entity):
 
 
 def preTreatment(context):
-    if context.get('forecast') is not None:
-        del context['forecast']
-    if context.get('missingAdjective') is not None:
-        del context['missingAdjective']
+    if context.get('answer') is not None:
+        del context['answer']
 
 
 
 
-def getForecast(request):
+def getAnswer(request):
     context = request['context']
     entities = request['entities']
     print request
 
     preTreatment(context)
 
+    context['answer'] = ''
+
+    # Unused variables
     color = first_entity_value(entities, 'wit_color')
     pprint("[DEBUG] wit color")
     pprint(color)
@@ -74,13 +68,10 @@ def getForecast(request):
             color_criterion['name'] = 'color.fr'
             color_criterion['value'] = entities['wit_color'][0]['value']
             context['criteria'].append(color_criterion)
-            if context.get('missingAdjective') is not None:
-                del context['missingAdjective']
         elif 'intent' in entities and entities['intent']:
             if entities['intent'][0]['value'] == "adjective":
-                context['missingAdjective'] = True
-                if context.get('forecast') is not None:
-                    del context['forecast']
+                if context.get('answer') is not None:
+                    del context['answer']
             elif entities['intent'][0]['value'] == "greetings":
                 context['type'] = 'button'
                 context['text'] = 'Quel vin souhaitez-vous ?'
@@ -100,29 +91,21 @@ def getForecast(request):
                 blanc['text'] = "blanc"
                 blanc['payload'] = "blanc"
                 context['options'].append(blanc)
-                if context.get('missingAdjective') is not None:
-                    del context['missingAdjective']
             else:
                context['type'] = 'text'
                context['text'] = 'Je n\'ai pas compris ce que vous voulez dire'
                context['api_call'] = False
-               if context.get('missingAdjective') is not None:
-                   del context['missingAdjective']
         else:
            context['type'] = 'text'
            context['text'] = 'Je n\'ai pas compris ce que vous voulez dire'
            context['api_call'] = False
-           if context.get('missingAdjective') is not None:
-               del context['missingAdjective']
 
         #if minprice and maxprice and currency:
-            #addToForecast(context,"entre " + minprice + " et " + maxprice + " " + currency)
+            #addToanswer(context,"entre " + minprice + " et " + maxprice + " " + currency)
     else:
        context['type'] = 'text'
        context['text'] = 'Je n\'ai pas compris ce que vous voulez dire'
        context['api_call'] = False
-       if context.get('missingAdjective') is not None:
-           del context['missingAdjective']
     return context
 
 
@@ -132,7 +115,7 @@ def getForecast(request):
 
 actions = {
     'send': send,
-    'getForecast': getForecast
+    'getAnswer': getAnswer
 }
 
 

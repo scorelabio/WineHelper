@@ -7,6 +7,11 @@ class Criterion(EmbeddedDocument):
     name = StringField()
     value = StringField()
 
-class Search(Document):
-    user_id = StringField()
+class Search(EmbeddedDocument):
     criteria = ListField(EmbeddedDocumentField(Criterion))
+
+class User(Document):
+    user_id = StringField()
+    current_search = EmbeddedDocumentField(Search)
+    searches = ListField(EmbeddedDocumentField(Search))
+    meta = {'collection': 'users'}

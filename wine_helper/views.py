@@ -36,7 +36,6 @@ class FacebookCallbackView(generic.View):
         """
         Handles server verification performed by Facebook
         """
-        pprint("[DEBUG][GET]")
         token = request.GET.get('hub.verify_token')
         challenge = request.GET.get('hub.challenge')
         if token == os.getenv('FB_VERIFY_TOKEN'):
@@ -51,7 +50,6 @@ class FacebookCallbackView(generic.View):
         """
         Handles Facebook messages
         """
-        pprint("[DEBUG][POST]")
         # Converts the text payload into a python dictionary
         incoming_message = json.loads(request.body.decode('utf-8'))
 
@@ -59,6 +57,7 @@ class FacebookCallbackView(generic.View):
         # multiple messages in a single call during high load
         for entry in incoming_message['entry']:
             for message in entry['messaging']:
+            	pprint(message)
                 sender_id = None
                 received_message = None
 
@@ -70,8 +69,7 @@ class FacebookCallbackView(generic.View):
                     received_message = message['postback']['payload']
 
                 if sender_id is not None and received_message is not None:
-                    pprint(received_message)
-                    json_answer = wit.treatment(received_message.encode('utf-8'))
+                    json_answer = wit.treatment(received_message.encode('utf-8'), sender_id)
                     pprint(json_answer)
                     sr.send_facebook_message(sender_id, json_answer)
         return HttpResponse()

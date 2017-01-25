@@ -1,7 +1,6 @@
-#!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-# Sytem dependencies
+# System dependencies
 import os
 import json
 from pprint import pprint
@@ -14,22 +13,24 @@ import api_tools as api
 import db_tools as db
 from Criteria import Criteria
 
+
 # "Constants" (variables that should not change)
 RESULTS_LIMIT = 3
 
+
 # Initializing client
 messenger = MessengerClient(access_token=os.getenv('FB_PAGE_TOKEN'))
+
 
 
 def send_facebook_message(fbid, data):
     """
     TODO: write description
     """
-    pprint("[DEBUG] send_facebook_message")
-    pprint("[DEBUG] data ---------------v")
-    pprint(data)
-    pprint("[DEBUG] data ---------------^")
-
+    if 'last_step' in data:
+        store_last_step(fbid, data["last_step"])
+    if 'storyline' in data:
+        store_storyline(fbid,data["storyline"])
     if 'criteria' in data and data["criteria"]:
         store_criteria(fbid, data["criteria"])
     if 'action' in data:
@@ -42,14 +43,48 @@ def send_facebook_message(fbid, data):
             handle_response(fbid, item)
 
 
-def store_criteria(fbid, criteria):
+def adapt_message_to_wit(fbid, message):
     """
     TODO: write description
     """
-    pprint("[DEBUG][send_response.py][store_criteria]")
+    user = db.get_user_by_id(fbid)
+    last_step = None
+    storyline = None
+
+    if user is None:
+        db.create_user(fbid)
+
+    last_step = db.get_last_step_by_user_id(fbid)
+    storyline = db.get_storyline_by_user_id(fbid)
+
+    if last_step is not None:
+        message = message + "_" + last_step
+    if storyline is not None:
+        message = message + "_" + storyline
+
+    return message
+
+
+def store_last_step(fbid, last_step):
+    """
+    TODO: write description
+    """
+    db.create_last_step(fbid, last_step)
+
+
+def store_storyline(fbid, storyline):
+    """
+    Add to the user with fbid the storyline defined by the variable storyline.
+    """
+    db.create_storyline(fbid, storyline)
+
+
+def store_criteria(fbid, criteria):
+    """
+    Add the criteria to the user with the id equal to fbid
+    """
     user = db.get_user_by_id(fbid)
     if user is None:
-        pprint("[DEBUG][send_response.py][store_criteria] user is None")
         db.create_user(fbid)
     for criterion in criteria:
         db.create_criterion(fbid, criterion)
@@ -57,7 +92,7 @@ def store_criteria(fbid, criteria):
 
 def reset_search(fbid):
     """
-    TODO: write description
+    Close the current_search of the user with id fbid
     """
     db.close_search(fbid)
 
@@ -66,20 +101,12 @@ def handle_response(fbid, data):
     """
     TODO: write description
     """
-    pprint("[DEBUG] handle_response")
-    pprint("[DEBUG] data ---------------v")
-    pprint(data)
-    pprint("[DEBUG] data ---------------^")
     if 'type' in data:
-        pprint("type in data ok")
         if data["type"] == "text":
-            pprint("[DEBUG] type text ok")
             handle_text(fbid, data)
         elif data["type"] == "button":
-            pprint("[DEBUG] type button ok")
             handle_button(fbid, data)
         else:
-            pprint("[DEBUG] type else ok")
             handle_error(fbid)
 
 
@@ -87,7 +114,6 @@ def handle_text(fbid, data):
     """
     Handles the sending to messenger of a text message
     """
-    pprint("[DEBUG] handle_text")
     recipient = messages.Recipient(recipient_id=fbid)
     message = messages.Message(text=data["text"])
     request = messages.MessageRequest(recipient, message)
@@ -134,31 +160,32 @@ def handle_api_call(fbid):
     TODO: write description
     """
     recipient = messages.Recipient(recipient_id=fbid)
-    message = messages.Message(text='API call')
+
+    text = ""
+    criteria_data = db.get_criteria_data_by_id(fbid)
+    if criteria_data is not None:
+        wine_list = api.build_wine_list(criteria_data, RESULTS_LIMIT)
+        text = "Voici les meilleurs vins présentants les critères recherchés :\n".decode('utf-8')
+        res = ""
+        for wine in wine_list:
+            res += "- "
+            res += wine.get_name().decode('utf-8')
+            res += ", " + wine.get_appellation().decode('utf-8')
+            res += " (" + str(wine.get_vintage()) + ")"
+            res += ", " + wine.get_color()['fr'].decode('utf-8')
+            res += ", " + wine.get_taste()['fr'].decode('utf-8')
+            res += ", " + str(wine.get_price()) + " euros"
+            res += "\n"
+
+        pprint(wine_list)
+
+        if not res:
+            res = "Aucun vin ne correspond à votre recherche".decode('utf-8')
+
+        text += res
+    else:
+        text = "Une erreur s'est produite"
+
+    message = messages.Message(text=text)
     request = messages.MessageRequest(recipient, message)
     messenger.send(request)
-
-            # wine_list = api.build_wine_list(data, RESULTS_LIMIT)
-            # text = "Voici les meilleurs vins présentants les critères recherchés :\n".decode('utf-8')
-            # res = ""
-            #
-            # for wine in wine_list:
-            #     res += "- "
-            #     res += wine.get_name().decode('utf-8')
-            #     res += ", " + wine.get_appellation().decode('utf-8')
-            #     res += " (" + str(wine.get_vintage()) + ")"
-            #     res += ", " + wine.get_color()['fr'].decode('utf-8')
-            #     res += ", " + wine.get_taste()['fr'].decode('utf-8')
-            #     res += ", " + str(wine.get_price()) + " euros"
-            #     res += "\n"
-
-            # pprint(wine_list)
-
-            # if not res:
-            #     res = "Aucun vin ne correspond à votre recherche".decode('utf-8')
-
-            # text += res
-
-            # message = messages.Message(text=text)
-            # request = messages.MessageRequest(recipient, message)
-            # messenger.send(request)

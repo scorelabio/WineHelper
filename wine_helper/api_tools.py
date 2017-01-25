@@ -1,4 +1,3 @@
-#!/usr/bin/python
 # -*- coding: utf-8 -*-
 
 import requests as re
@@ -22,10 +21,9 @@ def get_wines_by_criteria(criteria, limit=0):
     # setting criteria
     for criterion in criteria:
         # TODO: remove last &
-        query += "&" + criterion.get_name() + "=" + criterion.get_value()
-    pprint("[DEBUG] query")
-    pprint(query)
+        query += "&" + criterion.get_name() + "=" + str(criterion.get_value())
     url += query
+    pprint("[DEBUG] API call url: " + url)
 
     response = re.get(url)
     data = response.json()
@@ -52,11 +50,10 @@ def get_wines_by_criteria(criteria, limit=0):
 
 # TODO: review this function
 def build_wine_list (data, limit):
-    criterion = data["criterion"]
-    pprint("[DEBUG] WIT CRITERION")
     criteria_list = []
-    crit = C.Criteria(criterion["name"], criterion["value"].encode('utf-8'))
-    criteria_list.append(crit)
-    pprint("[DEBUG] BUILT CRITERION")
-    #pprint(criteria_list)
+    for criterion in data:
+        if type(criterion["value"]) == unicode:
+            criterion["value"] = criterion["value"].encode('utf-8')
+        crit = C.Criteria(criterion["name"].encode('utf-8'), criterion["value"])
+        criteria_list.append(crit)
     return get_wines_by_criteria(criteria_list, limit)

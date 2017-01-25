@@ -7,3 +7,7 @@ requests==2.12.1
 simplejson==3.10.0
 six==1.10.0
 wit==4.2.0
+slackclient==1.0.0
+websocket-client==0.37.0
+PyYAML==3.10
+slacker==0.9.30

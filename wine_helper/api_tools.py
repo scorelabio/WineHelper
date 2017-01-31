@@ -2,6 +2,8 @@
 
 import requests as re
 from pprint import pprint
+import db_tools as db
+import csv_reader as cr
 
 import Wine as W
 import Criteria as C
@@ -21,8 +23,9 @@ def get_wines_by_criteria(criteria, limit=0):
     # setting criteria
     for criterion in criteria:
         # TODO: remove last &
-        query += "&" + criterion.get_name() + "=" + str(criterion.get_value())
-    url += query
+        value = cr.search_translation("/app/wine_helper/data/translate_file.csv",1,0,str(criterion.get_value())).lower()
+        query += "&" + criterion.get_name() + "=" + str(value)
+    url += query.replace(" ","%20")
     pprint("[DEBUG] API call url: " + url)
 
     response = re.get(url)
@@ -34,19 +37,11 @@ def get_wines_by_criteria(criteria, limit=0):
             wine['name'].encode('utf-8'),
             int(wine['vintage']),
             float(wine['price']),
-            float(wine['globalScore']),
-            {
-                'fr': wine['color']['fr'].encode('utf-8'),
-                'en': wine['color']['en'].encode('utf-8')
-            },
-            {
-                'fr': wine['taste']['fr'].encode('utf-8'),
-                'en': wine['taste']['en'].encode('utf-8')
-            }
+            float(wine['gws']),
+            wine['color']
         )
         wine_list.append(wine_object)
     return wine_list
-
 
 # TODO: review this function
 def build_wine_list (data, limit):

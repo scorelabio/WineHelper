@@ -1,0 +1,877 @@
+nom du vin;vintage;appelation;couleur;ID_wine;ID_Item;prix;occasion de degust;food_pairing;food_pairing_french;gws
+Marjosse;2014;Entre deux mers;Red;1859;1859-2014;6;Aperitif, diner, dejeuner;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;85,61
+Marjosse;2012;Entre deux mers;Red;1859;1859-2012;8,6;Aperitif, diner, dejeuner;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;85,61
+Marjosse;2011;Entre deux mers;Red;1859;1859-2011;9;Aperitif, diner, dejeuner;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;84,82
+Marjosse, Blanc;2015;Bordeaux;White;1860;1860-2015;9,23;Aperitif, diner, dejeuner;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;87,86
+Bernadotte;2007;Haut Medoc;Red;1229;1229-2007;9,57;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;84,06
+Bernadotte;2012;Haut Medoc;Red;1229;1229-2012;9,57;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,38
+Greysac;2008;Medoc;Red;1585;1585-2008;9,61;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,4
+Senejac;2014;Haut Medoc;Red;2073;2073-2014;10,05;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,35
+Larrivaux;2011;Haut Medoc;Red;3863;3863-2011;10,9;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86
+Grand Village;2012;Bordeaux Superieur;Red;1579;1579-2012;11,1;Aperitif, diner, dejeuner;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;88,43
+Cambon La Pelouse;2007;Haut Medoc;Red;1277;1277-2007;11,49;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,19
+du Taillan;2010;Haut Medoc;Red;3081;3081-2010;11,5;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,19
+Cambon La Pelouse;2014;Haut Medoc;Red;1277;1277-2014;11,83;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,57
+Peyrabon;2013;Pauillac;Red;1972;1972-2013;12;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;67,97
+G de Guiraud;2015;Bordeaux;White;1549;1549-2015;12;Aperitif, diner, dejeuner;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;88,92
+du Taillan;2006;Haut Medoc;Red;3081;3081-2006;12,5;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+Senejac;2012;Haut Medoc;Red;2073;2073-2012;12,66;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,82
+Senejac;2013;Haut Medoc;Red;2073;2073-2013;12,9;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;84,21
+Grand Village;2011;Bordeaux Superieur;Red;1579;1579-2011;12,91;Aperitif, diner, dejeuner;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;87,32
+Poitevin;2012;Medoc;Red;3151;3151-2012;13,06;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;84,31
+Ronan by Clinet;2012;Bordeaux Superieur;Red;2686;2686-2012;13,06;Aperitif, diner, dejeuner;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;84,62
+Senejac;2011;Haut Medoc;Red;2073;2073-2011;13,27;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,03
+Grand Village;2013;Bordeaux Superieur;Red;1579;1579-2013;13,46;Aperitif, diner, dejeuner;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;85,65
+Peyrabon;2005;Pauillac;Red;1972;1972-2005;13,46;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,59
+Malescasse;2006;Haut Medoc;Red;1852;1852-2006;13,83;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,22
+Peyrabon;2012;Pauillac;Red;1972;1972-2012;13,9;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,55
+Cap de Faugeres;2012;Cotes de Castillon;Red;1288;1288-2012;13,95;Aperitif, diner, dejeuner;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;87,66
+Ronan by Clinet;2011;Bordeaux Superieur;Red;2686;2686-2011;13,96;Aperitif, diner, dejeuner;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;77,71
+Cap de Faugeres;2011;Cotes de Castillon;Red;1288;1288-2011;14;Aperitif, diner, dejeuner;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;87,24
+Cambon La Pelouse;2012;Haut Medoc;Red;1277;1277-2012;14,25;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,13
+Malescasse;2012;Haut Medoc;Red;1852;1852-2012;14,26;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;84,35
+de Pez;1999;Saint Estephe;Red;1450;1450-1999;14,36;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;84,54
+G de Guiraud;2014;Bordeaux;White;1549;1549-2014;14,49;Aperitif, diner, dejeuner;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;89,44
+Cambon La Pelouse;2013;Haut Medoc;Red;1277;1277-2013;14,9;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,17
+Larose Trintaudon;2000;Haut Medoc;Red;1784;1784-2000;14,93;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;72,54
+Larrivaux;2007;Haut Medoc;Red;3863;3863-2007;14,93;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;72,67
+Paloumey;2012;Haut Medoc;Red;1933;1933-2012;14,95;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,98
+Bernadotte;2011;Haut Medoc;Red;1229;1229-2011;15,01;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,35
+Teyssier;2012;Saint Emilion;Red;2104;2104-2012;15,19;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,58
+Teyssier;2012;Saint Emilion;Red;2104;2104-2012;15,19;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,58
+Teyssier;2012;Saint Emilion;Red;2104;2104-2012;15,19;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,58
+Teyssier;2012;Saint Emilion;Red;2104;2104-2012;15,19;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,58
+Bernadotte;1999;Haut Medoc;Red;1229;1229-1999;16,7;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,31
+Potensac;2002;Medoc;Red;1991;1991-2002;16,75;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,27
+R de Rieussec;2014;Bordeaux;White;2009;2009-2014;16,79;Aperitif, diner, dejeuner;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;89,09
+Cap de Faugeres;2010;Cotes de Castillon;Red;1288;1288-2010;16,95;Aperitif, diner, dejeuner;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;87,75
+Montlabert;2012;Saint Emilion;Red;3581;3581-2012;16,95;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+Bernadotte;2010;Haut Medoc;Red;1229;1229-2010;17,09;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,29
+Teyssier;2014;Saint Emilion;Red;2104;2104-2014;17,1;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,68
+Peyrabon;2002;Pauillac;Red;1972;1972-2002;17,23;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;72,67
+Potensac;1999;Medoc;Red;1991;1991-1999;17,23;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,83
+Meyney;2007;Saint Estephe;Red;1874;1874-2007;17,23;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,69
+Petit Bocq;2012;Saint Estephe;Red;1957;1957-2012;17,26;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,87
+Cote de Baleau;2015;Saint Emilion;Red;2253;2253-2015;17,26;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,24
+Couhins;2009;Pessac Leognan;Red;2783;2783-2009;17,31;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,11
+Goulee;2003;Medoc;Red;1564;1564-2003;17,45;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,7
+Fourcas Hosten;2007;Listrac Medoc;Red;1540;1540-2007;17,5;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,85
+Fourcas Hosten;2012;Listrac Medoc;Red;1540;1540-2012;17,67;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,74
+Petit Bocq;2011;Saint Estephe;Red;1957;1957-2011;17,72;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,68
+La Dauphine;2012;Fronsac;Red;1680;1680-2012;18;Aperitif, diner, dejeuner;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;88,21
+Fourcas Hosten;2008;Listrac Medoc;Red;1540;1540-2008;18;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;82,41
+Clos Floridene, blanc;2012;Graves;White;1369;1369-2012;18,13;Aperitif, diner, dejeuner;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;89,51
+Berliquet;2006;Saint Emilion;Red;1228;1228-2006;18,18;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,44
+d'Arsac;2009;Margaux;Red;1421;1421-2009;18,5;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,67
+Aiguilhe;2012;Cotes de Castillon;Red;1163;1163-2012;18,61;Aperitif, diner, dejeuner;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;88,35
+Bad Boy;2012;Bordeaux;Red;2612;2612-2012;18,65;Aperitif, diner, dejeuner;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;85,68
+Petit Haut Lafitte;2012;Pessac Leognan;Red;3000;3000-2012;18,66;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,41
+Segla;2007;Margaux;Red;2069;2069-2007;18,66;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,09
+Cote de Baleau;2012;Saint Emilion;Red;2253;2253-2012;18,77;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,6
+Rollan de By;2007;Medoc;Red;2038;2038-2007;18,9;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+Joanin Becot;2007;Cotes de Castillon;Red;1656;1656-2007;19;Aperitif, diner, dejeuner;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;86,06
+Fourcas Hosten;2006;Listrac Medoc;Red;1540;1540-2006;19;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;81,7
+Lalande Borie;2015;Saint Julien;Red;1765;1765-2015;19,06;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,32
+Lalande Borie;2014;Saint Julien;Red;1765;1765-2014;19,13;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,83
+Meyney;2006;Saint Estephe;Red;1874;1874-2006;19,15;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,28
+Cambon La Pelouse;2000;Haut Medoc;Red;1277;1277-2000;19,23;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+Malescasse;2005;Haut Medoc;Red;1852;1852-2005;19,33;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,89
+Senejac;2006;Haut Medoc;Red;2073;2073-2006;19,51;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,39
+Bernadotte;1997;Haut Medoc;Red;1229;1229-1997;19,59;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;79,12
+Bernadotte;2009;Haut Medoc;Red;1229;1229-2009;19,59;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,28
+Rollan de By;2010;Medoc;Red;2038;2038-2010;19,59;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,81
+Fleur de Pedesclaux;2012;Pauillac;Red;1527;1527-2012;19,75;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,12
+Lanessan;2003;Haut Medoc;Red;1777;1777-2003;19,9;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,34
+Tournefeuille;2013;Lalande de Pomerol;Red;2122;2122-2013;19,9;Aperitif, diner, dejeuner;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;84,61
+Rocheyron;2012;Saint Emilion;Red;4965;4965-2012;19,9;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,31
+Les Trois Croix;2012;Fronsac;Red;1824;1824-2012;19,98;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,42
+Clos Margalaine;2012;Margaux;Red;2252;2252-2012;19,99;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,06
+Fourcas Hosten;2004;Listrac Medoc;Red;1540;1540-2004;20;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;82,11
+Teyssier;2009;Saint Emilion;Red;2104;2104-2009;20,1;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,76
+Fleur de Clinet;2011;Pomerol;Red;1523;1523-2011;20,1;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;83,65
+Teyssier;2009;Saint Emilion;Red;2104;2104-2009;20,1;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,76
+Potensac;2001;Medoc;Red;1991;1991-2001;20,1;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,28
+Beau Site;2014;Saint Estephe;Red;1203;1203-2014;20,1;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,09
+Teyssier;2009;Saint Emilion;Red;2104;2104-2009;20,1;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,76
+Peyrabon;2010;Pauillac;Red;1972;1972-2010;20,12;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,04
+Grand Corbin Despagne;2014;Saint Emilion;Red;1571;1571-2014;20,15;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,16
+Lalande Borie;2012;Saint Julien;Red;1765;1765-2012;20,19;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,46
+La Fleur Peyrabon;2013;Pauillac;Red;1692;1692-2013;20,27;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,99
+Connetable de Talbot;2013;Saint Julien;Red;1388;1388-2013;20,45;Aperitif, diner, dejeuner;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;84,02
+Aiguilhe;2004;Cotes de Castillon;Red;1163;1163-2004;20,52;Aperitif, diner, dejeuner;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;88,17
+Clos Floridene, blanc;2014;Graves;White;1369;1369-2014;20,55;Aperitif, diner, dejeuner, cadeau;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;89,09
+Moulin Saint Georges;2012;Saint Emilion;Red;1902;1902-2012;20,67;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,25
+Senejac;2010;Haut Medoc;Red;2073;2073-2010;20,68;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,66
+Grand Barrail Lamarzelle Figeac;2011;Saint Emilion;Red;2184;2184-2011;20,7;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;83,29
+Meyney;2014;Saint Estephe;Red;1874;1874-2014;20,92;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,28
+Doisy Vedrines;2011;Sauternes;Sweet;1469;1469-2011;20,94;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;93,17
+La Fleur Peyrabon;2012;Pauillac;Red;1692;1692-2012;20,97;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,41
+Clos Floridene, blanc;2013;Graves;White;1369;1369-2013;21;Aperitif, diner, dejeuner, cadeau;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;88,03
+R de Rieussec;2011;Bordeaux;White;2009;2009-2011;21;Aperitif, diner, dejeuner, cadeau;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;83,65
+Berliquet;2008;Saint Emilion;Red;1228;1228-2008;21,05;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,82
+Cote de Baleau;2014;Saint Emilion;Red;2253;2253-2014;21,3;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,58
+Cote de Baleau;2010;Saint Emilion;Red;2253;2253-2010;21,37;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,82
+Meyney;2015;Saint Estephe;Red;1874;1874-2015;21,84;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,43
+Marquis de Calon;2011;Saint Estephe;Red;1863;1863-2011;21,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,76
+Brown;2012;Pessac Leognan;Red;1261;1261-2012;21,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,41
+de Sales;2011;Pomerol;Red;1451;1451-2011;21,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;80,09
+Laroze;2012;Saint Emilion;Red;1785;1785-2012;21,97;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,66
+Lalande Borie;2010;Saint Julien;Red;1765;1765-2010;22,02;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,54
+Bonalgue;2004;Pomerol;Red;1238;1238-2004;22,11;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,99
+Meyney;2010;Saint Estephe;Red;1874;1874-2010;22,25;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,43
+La Dauphine;2010;Fronsac;Red;1680;1680-2010;22,31;diner, dejeuner, cadeau;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;88,66
+de Sales;2012;Pomerol;Red;1451;1451-2012;22,38;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,52
+Mazeyres;2011;Pomerol;Red;1873;1873-2011;22,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,07
+Mazeyres;2014;Pomerol;Red;1873;1873-2014;22,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,43
+Mazeyres;2012;Pomerol;Red;1873;1873-2012;22,59;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,06
+Gazin Rocquencourt;2011;Pessac Leognan;Red;1555;1555-2011;22,63;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,05
+Senejac;2009;Haut Medoc;Red;2073;2073-2009;22,77;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;82,78
+Raymond Lafon;2007;Sauternes;Sweet;2016;2016-2007;22,97;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;91,78
+Raymond Lafon;2009;Sauternes;Sweet;2016;2016-2009;22,97;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;92,26
+Lalande Borie;2013;Saint Julien;Red;1765;1765-2013;23;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,93
+Gazin Rocquencourt;2012;Pessac Leognan;Red;1555;1555-2012;23;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,04
+Marquis de Calon;2012;Saint Estephe;Red;1863;1863-2012;23,1;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,03
+Charmes de Kirwan;2010;Margaux;Red;1318;1318-2010;23,32;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,95
+Doisy Vedrines;2010;Sauternes;Sweet;1469;1469-2010;23,45;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;92,54
+Bouscaut;2013;Pessac Leognan;Red;1247;1247-2013;23,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,35
+Joanin Becot;2010;Cotes de Castillon;Red;1656;1656-2010;23,58;diner, dejeuner, cadeau;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;88,74
+Poujeaux;2008;Moulis en Medoc;Red;1993;1993-2008;23,92;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,4
+Doisy Vedrines;2007;Sauternes;Sweet;1469;1469-2007;23,93;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;92,16
+La Fleur de Bouard;2013;Lalande de Pomerol;Red;1682;1682-2013;23,95;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,2
+Grand Corbin;2011;Saint Emilion;Red;1570;1570-2011;24;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;84,77
+Caillou Blanc de Talbot;2013;Saint Julien;White;1274;1274-2013;24,02;Aperitif, diner, dejeuner, cadeau;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;86,47
+La Fleur de Bouard;2015;Lalande de Pomerol;Red;1682;1682-2015;24,2;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,91
+Goulee;2005;Medoc;Red;1564;1564-2005;24,23;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,89
+Brillette;2009;Moulis en Medoc;Red;1257;1257-2009;24,25;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,27
+Brillette;2009;Moulis en Medoc;Red;1257;1257-2009;24,25;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,27
+Rocher Bellevue Figeac;2005;Saint Emilion;Red;2550;2550-2005;24,25;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,19
+Lalande Borie;2011;Saint Julien;Red;1765;1765-2011;24,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,99
+Goulee;2007;Medoc;Red;1564;1564-2007;24,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,04
+Segla;2012;Margaux;Red;2069;2069-2012;24,55;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,02
+Clos Rene;2012;Pomerol;Red;1381;1381-2012;24,75;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,86
+Doisy Vedrines;2009;Sauternes;Sweet;1469;1469-2009;24,75;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;92,37
+Hospitalet de Gazin;2010;Pomerol;Red;1646;1646-2010;24,89;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,86
+Paveil de Luze;2005;Margaux;Red;1942;1942-2005;25;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,59
+Paveil de Luze;2006;Margaux;Red;1942;1942-2006;25;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,19
+Corbin;2013;Saint Emilion;Red;1389;1389-2013;25;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,18
+Parde de Haut Bailly;2012;Pessac Leognan;Red;1936;1936-2012;25,17;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,48
+Segla;2006;Margaux;Red;2069;2069-2006;25,24;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,85
+Grand Corbin Despagne;2000;Saint Emilion;Red;1571;1571-2000;25,36;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,62
+Doisy Vedrines;2003;Sauternes;Sweet;1469;1469-2003;25,36;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;90,05
+Bernadotte;2000;Haut Medoc;Red;1229;1229-2000;25,56;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,16
+Aiguilhe;2007;Cotes de Castillon;Red;1163;1163-2007;25,6;diner, dejeuner, cadeau;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;88,63
+Corbin;2015;Saint Emilion;Red;1389;1389-2015;25,6;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,54
+Marquis de Calon;2010;Saint Estephe;Red;1863;1863-2010;25,68;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,8
+Bernadotte;2003;Haut Medoc;Red;1229;1229-2003;25,8;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,14
+Cote de Baleau;2011;Saint Emilion;Red;2253;2253-2011;25,8;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,21
+Rol Valentin;2009;Saint Emilion;Red;2037;2037-2009;25,84;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,19
+Segla;2009;Margaux;Red;2069;2069-2009;25,84;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,58
+Clarke;2008;Listrac Medoc;Red;1340;1340-2008;25,87;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,06
+Desmirail;2013;Margaux;Red;1930;1930-2013;25,95;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;83,96
+BriO de Cantenac Brown;2012;Margaux;Red;1258;1258-2012;26;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,4
+Aiguilhe;2011;Cotes de Castillon;Red;1163;1163-2011;26;diner, dejeuner, cadeau;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;88,5
+Meyney;2013;Saint Estephe;Red;1874;1874-2013;26;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,21
+Meyney;2001;Saint Estephe;Red;1874;1874-2001;26,09;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,23
+Rayne Vigneau;2003;Sauternes;Sweet;2017;2017-2003;26,21;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;90,33
+La Fleur de Bouard;2012;Lalande de Pomerol;Red;1682;1682-2012;26,22;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,77
+La Tour Carnet;2003;Haut Medoc;Red;1812;1812-2003;26,33;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,46
+Meyney;2003;Saint Estephe;Red;1874;1874-2003;26,33;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,74
+Bastor Lamontagne;2012;Sauternes;Sweet;1197;1197-2012;26,33;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;84,26
+Meyney;2012;Saint Estephe;Red;1874;1874-2012;26,39;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,79
+Meyney;2012;Saint Estephe;Red;1874;1874-2012;26,39;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,79
+Fourcas Hosten;2010;Listrac Medoc;Red;1540;1540-2010;26,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,17
+La Tour du Pin Figeac;2009;Saint Emilion;Red;1740;1740-2009;26,7;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,53
+Bastor Lamontagne;2011;Sauternes;Sweet;1197;1197-2011;26,75;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;88,93
+Grand Corbin Despagne;2012;Saint Emilion;Red;1571;1571-2012;26,86;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,01
+Clos de Salles;2012;Pomerol;Red;1357;1357-2012;26,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,19
+Bastor Lamontagne;2009;Sauternes;Sweet;1197;1197-2009;26,93;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;88,68
+Camensac;2009;Haut Medoc;Red;1231;1231-2009;26,98;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,59
+Desmirail;2014;Margaux;Red;1930;1930-2014;26,99;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,41
+Bastor Lamontagne;2008;Sauternes;Sweet;1197;1197-2008;27;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;86,24
+Bouscaut;2012;Pessac Leognan;Red;1247;1247-2012;27,08;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,67
+Amiral de Beychevelle;2011;Saint Julien;Red;1168;1168-2011;27,13;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,57
+Amiral de Beychevelle;2012;Saint Julien;Red;1168;1168-2012;27,13;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,69
+Connetable de Talbot;2012;Saint Julien;Red;1388;1388-2012;27,22;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,8
+Haut Bages Liberal;2008;Pauillac;Red;1391;1391-2008;27,28;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,79
+Segla;2010;Margaux;Red;2069;2069-2010;27,38;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,09
+Rouget;2012;Pomerol;Red;2049;2049-2012;27,39;diner, dejeuner, cadeau;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;90,06
+Senejac;2005;Haut Medoc;Red;2073;2073-2005;27,42;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,09
+Parde de Haut Bailly;2010;Pessac Leognan;Red;1936;1936-2010;27,53;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87
+Corbin;2012;Saint Emilion;Red;1389;1389-2012;27,58;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,03
+Corbin;2012;Saint Emilion;Red;1389;1389-2012;27,58;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,03
+Lanessan;2005;Haut Medoc;Red;1777;1777-2005;27,6;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89
+Doisy Vedrines;2015;Sauternes;Sweet;1469;1469-2015;27,63;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;93,47
+Tour Maillet;2008;Pomerol;Red;3161;3161-2008;27,75;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+Grand Corbin;2012;Saint Emilion;Red;1570;1570-2012;27,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,32
+Goulee;2010;Medoc;Red;1564;1564-2010;27,98;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,17
+Haut Bages Liberal;2002;Pauillac;Red;1391;1391-2002;28,23;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,78
+Moulin Saint Georges;2009;Saint Emilion;Red;1902;1902-2009;28,23;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,2
+La Tour Blanche;2009;Sauternes;Sweet;1733;1733-2009;28,23;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;94,84
+Grand Corbin Despagne;2011;Saint Emilion;Red;1571;1571-2011;28,37;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,31
+Croizet Bages;2015;Pauillac;Red;1276;1276-2015;28,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,31
+Couhins;2010;Pessac Leognan;Red;2783;2783-2010;28,55;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,38
+Bouscaut;2000;Pessac Leognan;Red;1247;1247-2000;28,71;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,81
+Petit Bocq;2005;Saint Estephe;Red;1957;1957-2005;28,71;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;83,55
+Sociando Mallet;1997;Haut Medoc;Red;2085;2085-1997;28,83;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,08
+de Sales;2009;Pomerol;Red;1451;1451-2009;28,83;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+Rol Valentin;2004;Saint Emilion;Red;2037;2037-2004;28,83;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,38
+La Fleur;2011;Saint Emilion;Red;4540;4540-2011;28,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,9
+Desmirail;2012;Margaux;Red;1930;1930-2012;28,95;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,03
+Olivier;2008;Pessac Leognan;Red;1920;1920-2008;28,97;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,33
+Benjamin de Beauregard;2012;Pomerol;Red;1226;1226-2012;29;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,13
+La Fleur;2012;Saint Emilion;Red;4540;4540-2012;29;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,95
+Ferrand;2009;Saint Emilion;Red;1514;1514-2009;29;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,15
+Bastor Lamontagne;2013;Sauternes;Sweet;1197;1197-2013;29;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;87,85
+Raymond Lafon;2005;Sauternes;Sweet;2016;2016-2005;29,07;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;91,26
+Fleur Cardinale;2006;Saint Emilion;Red;1522;1522-2006;29,19;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,37
+Lanessan;2000;Haut Medoc;Red;1777;1777-2000;29,3;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+La Tour Carnet;2011;Haut Medoc;Red;1812;1812-2011;29,3;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,36
+Moulin Saint Georges;2010;Saint Emilion;Red;1902;1902-2010;29,32;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,96
+Poujeaux;2005;Moulis en Medoc;Red;1993;1993-2005;29,37;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,84
+Quinault l'Enclos;2012;Saint Emilion;Red;2008;2008-2012;29,4;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,47
+La Confession;2012;Saint Emilion;Red;1667;1667-2012;29,49;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,47
+Fonbadet;2012;Pauillac;Red;1532;1532-2012;29,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,66
+Fleur Cardinale;2007;Saint Emilion;Red;1522;1522-2007;29,67;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,73
+de Pez;2008;Saint Estephe;Red;1450;1450-2008;29,8;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,79
+Doisy Vedrines;2014;Sauternes;Sweet;1469;1469-2014;29,84;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;92,9
+La Serre;2012;Saint Emilion;Red;1732;1732-2012;29,86;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,77
+Bouscaut;2011;Pessac Leognan;Red;1247;1247-2011;29,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,43
+Sanctus;2006;Saint Emilion;Red;2066;2066-2006;29,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+Quinault l'Enclos;2011;Saint Emilion;Red;2008;2008-2011;29,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,89
+Clos de l'Oratoire;2008;Saint Emilion;Red;1356;1356-2008;29,95;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,55
+Grand Corbin;2001;Saint Emilion;Red;1570;1570-2001;30;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,09
+Dassault;2012;Saint Emilion;Red;1422;1422-2012;30,17;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,76
+Raymond Lafon;2002;Sauternes;Sweet;2016;2016-2002;30,37;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;89,66
+Phelan Segur;2002;Saint Estephe;Red;1973;1973-2002;30,45;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,96
+La Serre;2008;Saint Emilion;Red;1732;1732-2008;30,71;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,14
+Dame de Montrose;2011;Saint Estephe;Red;1415;1415-2011;30,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,36
+Grand Corbin;2005;Saint Emilion;Red;1570;1570-2005;31;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+de Malle;2009;Sauternes;Sweet;1445;1445-2009;31;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;89,9
+de Malle;2005;Sauternes;Sweet;1445;1445-2005;31,06;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;89,83
+Lalande Borie;2008;Saint Julien;Red;1765;1765-2008;31,1;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,3
+Lynch Moussas;2009;Pauillac;Red;1424;1424-2009;31,36;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,82
+Meyney;2011;Saint Estephe;Red;1874;1874-2011;31,49;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,08
+Lalande Borie;2005;Saint Julien;Red;1765;1765-2005;31,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,57
+Beauregard;2014;Pomerol;Red;1206;1206-2014;31,53;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,46
+Moulin Saint Georges;2003;Saint Emilion;Red;1902;1902-2003;31,58;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,54
+de Fargues;2003;Sauternes;Sweet;1433;1433-2003;31,58;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;93
+Fourcas Hosten;2005;Listrac Medoc;Red;1540;1540-2005;31,6;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,09
+Beauregard;2008;Pomerol;Red;1206;1206-2008;31,8;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,28
+Quinault l'Enclos;2014;Saint Emilion;Red;2008;2008-2014;31,95;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,18
+Bernadotte;2005;Haut Medoc;Red;1229;1229-2005;32;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,02
+Haut Bages Liberal;2013;Pauillac;Red;1391;1391-2013;32;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,74
+Tour Maillet;2000;Pomerol;Red;3161;3161-2000;32;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+de Sales;2010;Pomerol;Red;1451;1451-2010;32;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+Grand Corbin;2010;Saint Emilion;Red;1570;1570-2010;32;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;82,25
+Clos de l'Oratoire;2013;Saint Emilion;Red;1356;1356-2013;32;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,83
+Meyney;1995;Saint Estephe;Red;1874;1874-1995;32,04;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,52
+Bellefont Belcier;2009;Saint Emilion;Red;1218;1218-2009;32,07;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,36
+Rayne Vigneau;1997;Sauternes;Sweet;2017;2017-1997;32,16;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;90,6
+Hospitalet de Gazin;2011;Pomerol;Red;1646;1646-2011;32,17;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+Croizet Bages;2010;Pauillac;Red;1276;1276-2010;32,19;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,54
+Moulinet;2008;Pomerol;Red;1904;1904-2008;32,45;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,19
+Moulinet;2008;Pomerol;Red;1904;1904-2008;32,45;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,19
+Berliquet;2012;Saint Emilion;Red;1228;1228-2012;32,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,5
+Chasse Spleen;2004;Moulis en Medoc;Red;1321;1321-2004;32,57;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,32
+Haut Bages Liberal;2012;Pauillac;Red;1391;1391-2012;32,63;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,41
+Fleur Cardinale;2011;Saint Emilion;Red;1522;1522-2011;32,65;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,54
+Faugeres;2012;Saint Emilion;Red;1513;1513-2012;32,95;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,46
+Camensac;2008;Haut Medoc;Red;1231;1231-2008;32,98;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,03
+Amiral de Beychevelle;2010;Saint Julien;Red;1168;1168-2010;32,99;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,89
+de Pez;2009;Saint Estephe;Red;1450;1450-2009;33;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,62
+La Clotte;2012;Saint Emilion;Red;1664;1664-2012;33;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,24
+Bastor Lamontagne;2007;Sauternes;Sweet;1197;1197-2007;33;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;87,57
+Clos Saint Martin;2006;Saint Emilion;Red;1384;1384-2006;33,11;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,8
+La Serre;2013;Saint Emilion;Red;1732;1732-2013;33,2;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,37
+La Serre;2013;Saint Emilion;Red;1732;1732-2013;33,2;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,37
+Malartic Lagraviere;2014;Pessac Leognan;Red;1850;1850-2014;33,24;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,69
+Cantemerle;2005;Haut Medoc;Red;1252;1252-2005;33,42;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,42
+Lusseau;2005;Graves;Red;2258;2258-2005;33,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90
+Nenin;2004;Pomerol;Red;1915;1915-2004;33,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,73
+Langoa Barton;2007;Saint Julien;Red;2014;2014-2007;33,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,2
+Grand Mayne;2010;Saint Emilion;Red;1574;1574-2010;33,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,33
+Beauregard;2013;Pomerol;Red;1206;1206-2013;33,57;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,79
+La Tour Carnet;2009;Haut Medoc;Red;1812;1812-2009;33,58;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,98
+Cap de Mourlin;2009;Saint Emilion;Red;1289;1289-2009;33,58;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,48
+Segla;2011;Margaux;Red;2069;2069-2011;33,58;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,94
+Fleur Cardinale;2014;Saint Emilion;Red;1522;1522-2014;33,61;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,01
+Larcis Ducasse;2004;Saint Emilion;Red;1779;1779-2004;33,64;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,71
+Croizet Bages;2009;Pauillac;Red;1276;1276-2009;33,76;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,75
+Cantemerle;2004;Haut Medoc;Red;1252;1252-2004;33,87;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,78
+Petit Figeac;2012;Saint Emilion;Red;1962;1962-2012;33,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,24
+Chasse Spleen;2000;Moulis en Medoc;Red;1321;1321-2000;33,93;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,49
+Poujeaux;2000;Moulis en Medoc;Red;1993;1993-2000;33,93;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,82
+Lynch Moussas;2007;Pauillac;Red;1424;1424-2007;34;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,71
+Larcis Ducasse;2006;Saint Emilion;Red;1779;1779-2006;34,19;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,82
+Fleur Cardinale;2013;Saint Emilion;Red;1522;1522-2013;34,2;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,61
+Branaire Ducru;2014;Saint Julien;Red;1788;1788-2014;34,43;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,92
+Nairac;2011;Sauternes;Sweet;1914;1914-2011;34,45;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;92,64
+Haut Marbuzet;2001;Saint Estephe;Red;1614;1614-2001;34,45;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,44
+Guiraud;1995;Sauternes;Sweet;1589;1589-1995;34,45;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;88,16
+Clos Rene;2005;Pomerol;Red;1381;1381-2005;34,6;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,15
+Quinault l'Enclos;2007;Saint Emilion;Red;2008;2008-2007;34,8;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,77
+Phelan Segur;2005;Saint Estephe;Red;1973;1973-2005;34,89;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,03
+Potensac;1986;Medoc;Red;1991;1991-1986;34,95;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,57
+Connetable de Talbot;2009;Saint Julien;Red;1388;1388-2009;35;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,94
+La Tour Carnet;2010;Haut Medoc;Red;1812;1812-2010;35;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,88
+Bellegrave;2012;Pomerol;Red;1219;1219-2012;35;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,79
+de Malle;2008;Sauternes;Sweet;1445;1445-2008;35;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;89,16
+La Tour Blanche;2007;Sauternes;Sweet;1733;1733-2007;35,08;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;93,15
+La Cabanne;2011;Pomerol;Red;1661;1661-2011;35,1;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,43
+Quinault l'Enclos;2006;Saint Emilion;Red;2008;2008-2006;35,12;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,05
+La Confession;2010;Saint Emilion;Red;1667;1667-2010;35,12;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,77
+Rol Valentin;2003;Saint Emilion;Red;2037;2037-2003;35,25;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,19
+Guillot Clauzel;2004;Pomerol;Red;2713;2713-2004;35,44;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,19
+Langoa Barton;2014;Saint Julien;Red;2014;2014-2014;35,52;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,42
+Faugeres;1998;Saint Emilion;Red;1513;1513-1998;35,6;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,24
+Grand Mayne;2006;Saint Emilion;Red;1574;1574-2006;35,6;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,32
+La Lagune;2014;Haut Medoc;Red;1992;1992-2014;35,83;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,59
+Villemaurine;2012;Saint Emilion;Red;2150;2150-2012;35,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,78
+Rol Valentin;2007;Saint Emilion;Red;2037;2037-2007;35,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+Villemaurine;2012;Saint Emilion;Red;2150;2150-2012;35,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,78
+Dame de Montrose;2008;Saint Estephe;Red;1415;1415-2008;36;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,5
+Chasse Spleen;1994;Moulis en Medoc;Red;1321;1321-1994;36,14;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;84,75
+Domaine de Chevalier;2013;Pessac Leognan;Red;1471;1471-2013;36,2;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,47
+Dame de Montrose;2012;Saint Estephe;Red;1415;1415-2012;36,23;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,64
+Rouget;2015;Pomerol;Red;2049;2049-2015;36,25;diner, dejeuner, cadeau;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;90,38
+de Malle;2003;Sauternes;Sweet;1445;1445-2003;36,3;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;90,78
+Langoa Barton;2004;Saint Julien;Red;2014;2014-2004;36,37;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,12
+Guiraud;2000;Sauternes;Sweet;1589;1589-2000;36,37;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;89,45
+Branaire Ducru;2002;Saint Julien;Red;1788;1788-2002;36,95;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,9
+Lynch Moussas;2006;Pauillac;Red;1424;1424-2006;37,2;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,09
+Haut Bages Liberal;2010;Pauillac;Red;1391;1391-2010;37,2;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,36
+Langoa Barton;2006;Saint Julien;Red;2014;2014-2006;37,23;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,29
+Batailley;2003;Pauillac;Red;1199;1199-2003;37,33;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,28
+Dassault;2010;Saint Emilion;Red;1422;1422-2010;37,4;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,91
+Aiguilhe;2010;Cotes de Castillon;Red;1163;1163-2010;37,5;diner, dejeuner, cadeau;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;89,85
+Rouget;2009;Pomerol;Red;2049;2049-2009;37,61;diner, dejeuner, cadeau;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;89,34
+Larcis Ducasse;2011;Saint Emilion;Red;1779;1779-2011;37,66;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,48
+Sociando Mallet;1999;Haut Medoc;Red;2085;2085-1999;37,71;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,75
+Rouget;2005;Pomerol;Red;2049;2049-2005;37,81;diner, dejeuner, cadeau;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;90,59
+Berliquet;2011;Saint Emilion;Red;1228;1228-2011;37,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,51
+La Confession;2011;Saint Emilion;Red;1667;1667-2011;38,2;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,87
+Larcis Ducasse;2013;Saint Emilion;Red;1779;1779-2013;38,24;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,65
+Rouget;2010;Pomerol;Red;2049;2049-2010;38,28;diner, dejeuner, cadeau;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;89,91
+Poujeaux;2006;Moulis en Medoc;Red;1993;1993-2006;38,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,54
+Lynch Bages, Blanc;2014;Bordeaux;White;1840;1840-2014;38,6;Aperitif, diner, dejeuner, cadeau;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;89,75
+Guiraud;2007;Sauternes;Sweet;1589;1589-2007;38,68;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;93,79
+Grand Puy Lacoste;2004;Pauillac;Red;1346;1346-2004;38,76;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,05
+Malartic Lagraviere;2013;Pessac Leognan;Red;1850;1850-2013;38,78;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,97
+Beauregard;2011;Pomerol;Red;1206;1206-2011;39;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,55
+Beauregard;2012;Pomerol;Red;1206;1206-2012;39;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,24
+Branaire Ducru;2013;Saint Julien;Red;1788;1788-2013;39;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,65
+Malartic Lagraviere;2015;Pessac Leognan;Red;1850;1850-2015;39,15;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,78
+de Pez;2011;Saint Estephe;Red;1450;1450-2011;39,15;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,92
+Dassault;2011;Saint Emilion;Red;1422;1422-2011;39,2;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,1
+Soutard;2012;Saint Emilion;Red;2090;2090-2012;39,2;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,81
+Sanctus;2005;Saint Emilion;Red;2066;2066-2005;39,26;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,46
+La Fleur de Bouard;2003;Lalande de Pomerol;Red;1682;1682-2003;39,68;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,73
+Fleur Cardinale;2012;Saint Emilion;Red;1522;1522-2012;39,99;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,65
+Dame de Montrose;2009;Saint Estephe;Red;1415;1415-2009;40;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,7
+Phelan Segur;2000;Saint Estephe;Red;1973;1973-2000;40,2;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,47
+Dassault;2008;Saint Emilion;Red;1422;1422-2008;40,2;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,21
+Fonplegade;2011;Saint Emilion;Red;1533;1533-2011;40,2;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,3
+Grand Mayne;2012;Saint Emilion;Red;1574;1574-2012;40,25;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,61
+Malartic Lagraviere;2012;Pessac Leognan;Red;1850;1850-2012;40,32;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,11
+Chasse Spleen;1997;Moulis en Medoc;Red;1321;1321-1997;40,33;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;81,43
+Potensac;2003;Medoc;Red;1991;1991-2003;40,33;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,21
+Potensac;2005;Medoc;Red;1991;1991-2005;40,33;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,12
+Haut Marbuzet;2002;Saint Estephe;Red;1614;1614-2002;40,33;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,5
+Haut Bages Liberal;2001;Pauillac;Red;1391;1391-2001;40,68;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,8
+Nenin;2009;Pomerol;Red;1915;1915-2009;40,71;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,52
+Grand Mayne;2011;Saint Emilion;Red;1574;1574-2011;41;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,72
+Fonplegade;2012;Saint Emilion;Red;1533;1533-2012;41;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,7
+Langoa Barton;2012;Saint Julien;Red;2014;2014-2012;41,09;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,55
+Domaine de Chevalier;2014;Pessac Leognan;Red;1471;1471-2014;41,58;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,53
+Saint Pierre;2013;Saint Julien;Red;1858;1858-2013;41,58;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,54
+Domaine de Chevalier;2004;Pessac Leognan;Red;1471;1471-2004;41,63;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,58
+Saint Pierre;1994;Saint Julien;Red;1858;1858-1994;41,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,78
+Domaine de Chevalier;2012;Pessac Leognan;Red;1471;1471-2012;41,94;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,34
+Rayne Vigneau;2012;Sauternes;Sweet;2017;2017-2012;41,95;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;88,11
+Rieussec;1995;Sauternes;Sweet;2030;2030-1995;41,97;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;87,12
+Virginie de Valandraud;2009;Saint Emilion;Red;2152;2152-2009;41,97;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,98
+La Tour Carnet;2006;Haut Medoc;Red;1812;1812-2006;42;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,9
+Cantemerle;2006;Haut Medoc;Red;1252;1252-2006;42;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,25
+Lagrange;2011;Saint Julien;Red;2002;2002-2011;42;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,82
+Meyney;2000;Saint Estephe;Red;1874;1874-2000;42;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,75
+Phelan Segur;2006;Saint Estephe;Red;1973;1973-2006;42;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,99
+Rayne Vigneau;2009;Sauternes;Sweet;2017;2017-2009;42;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;93,6
+Guiraud;1998;Sauternes;Sweet;1589;1589-1998;42,12;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;90,64
+Branaire Ducru;2012;Saint Julien;Red;1788;1788-2012;42,22;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,57
+Virginie de Valandraud;2006;Saint Emilion;Red;2152;2152-2006;42,6;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+Haut Bages Liberal;2009;Pauillac;Red;1391;1391-2009;42,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91
+La Tour Figeac;2010;Saint Emilion;Red;1741;1741-2010;42,95;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,22
+Beau Sejour Becot;2013;Saint Emilion;Red;1202;1202-2013;42,95;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,7
+Malartic Lagraviere;2011;Pessac Leognan;Red;1850;1850-2011;42,97;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,11
+Dassault;2006;Saint Emilion;Red;1422;1422-2006;43;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,87
+Domaine de Chevalier;2006;Pessac Leognan;Red;1471;1471-2006;43,07;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,62
+Langoa Barton;2005;Saint Julien;Red;2014;2014-2005;43,07;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,76
+La Tour Blanche;2010;Sauternes;Sweet;1733;1733-2010;43,25;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;94,48
+Fleur Cardinale;2003;Saint Emilion;Red;1522;1522-2003;43,46;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,44
+chenes de Macquin;2012;Saint Emilion;Red;1325;1325-2012;43,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,36
+Climens;2012;Sauternes;Sweet;1347;1347-2012;43,55;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;91,84
+Chasse Spleen;2005;Moulis en Medoc;Red;1321;1321-2005;43,57;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,7
+Poujeaux;2003;Moulis en Medoc;Red;1993;1993-2003;43,58;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,35
+Lynch Moussas;1997;Pauillac;Red;1424;1424-1997;43,58;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;80,93
+Langoa Barton;2013;Saint Julien;Red;2014;2014-2013;43,91;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,41
+Rieussec;1997;Sauternes;Sweet;2030;2030-1997;43,91;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;92,11
+Haut Bages Liberal;2011;Pauillac;Red;1391;1391-2011;44;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,26
+de Pez;2010;Saint Estephe;Red;1450;1450-2010;44;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,92
+Jean Faure;2009;Saint Emilion;Red;1653;1653-2009;44;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,95
+Branaire Ducru;2008;Saint Julien;Red;1788;1788-2008;44,04;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,06
+Beau Sejour Becot;2014;Saint Emilion;Red;1202;1202-2014;44,19;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,49
+Rieussec;1996;Sauternes;Sweet;2030;2030-1996;44,35;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;90,98
+Villemaurine;2011;Saint Emilion;Red;2150;2150-2011;44,4;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,56
+Saint Pierre;2008;Saint Julien;Red;1858;1858-2008;44,44;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,86
+Haut Marbuzet;2003;Saint Estephe;Red;1614;1614-2003;44,7;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,51
+Clos de l'Oratoire;2006;Saint Emilion;Red;1356;1356-2006;44,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,12
+Saint Pierre;2011;Saint Julien;Red;1858;1858-2011;44,95;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,75
+La Lagune;2007;Haut Medoc;Red;1992;1992-2007;45;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,1
+Nenin;2011;Pomerol;Red;1915;1915-2011;45;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,26
+Poujeaux;1995;Moulis en Medoc;Red;1993;1993-1995;45,08;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,47
+Chasse Spleen;2002;Moulis en Medoc;Red;1321;1321-2002;45,25;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,12
+Lynch Moussas;1999;Pauillac;Red;1424;1424-1999;45,25;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;81,74
+Guiraud;2005;Sauternes;Sweet;1589;1589-2005;45,47;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;92,85
+Guiraud;2006;Sauternes;Sweet;1589;1589-2006;45,5;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;91,59
+Langoa Barton;2010;Saint Julien;Red;2014;2014-2010;45,65;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,57
+Potensac;1989;Medoc;Red;1991;1991-1989;45,94;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87
+les Carmes Haut Brion;2010;Pessac Leognan;Red;1816;1816-2010;45,94;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,45
+Guiraud;1996;Sauternes;Sweet;1589;1589-1996;46,08;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;89,18
+Domaine de Chevalier;1995;Pessac Leognan;Red;1471;1471-1995;46,13;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,02
+Branon;2008;Pessac Leognan;Red;1256;1256-2008;46,13;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,54
+Dame de Montrose;2010;Saint Estephe;Red;1415;1415-2010;46,15;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,57
+Beau Soleil;2000;Pomerol;Red;1204;1204-2000;46,6;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+Saint Pierre;2015;Saint Julien;Red;1858;1858-2015;46,61;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,46
+Branaire Ducru;2004;Saint Julien;Red;1788;1788-2004;46,63;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,02
+Lynch Moussas;1998;Pauillac;Red;1424;1424-1998;46,83;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;78,47
+Lynch Moussas;2002;Pauillac;Red;1424;1424-2002;46,83;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,84
+Saint Pierre;2007;Saint Julien;Red;1858;1858-2007;47;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,33
+Domaine de Chevalier;2007;Pessac Leognan;Red;1471;1471-2007;47,19;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,6
+Certan Marzelle;2010;Pomerol;Red;1305;1305-2010;47,21;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,54
+Lynch Bages, Blanc;2011;Bordeaux;White;1840;1840-2011;47,66;Aperitif, diner, dejeuner, cadeau;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;90,37
+La Serre;2010;Saint Emilion;Red;1732;1732-2010;47,77;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,68
+Chapelle de La Mission Haut Brion;2013;Pessac Leognan;Red;1312;1312-2013;48;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,13
+Guiraud;2003;Sauternes;Sweet;1589;1589-2003;48,12;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;93,39
+Beau Sejour Becot;2015;Saint Emilion;Red;1202;1202-2015;48,36;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,84
+Potensac;1996;Medoc;Red;1991;1991-1996;48,42;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,59
+Gazin;1993;Pomerol;Red;1554;1554-1993;48,9;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,25
+Cantemerle;2001;Haut Medoc;Red;1252;1252-2001;49;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,68
+Grand Mayne;1997;Saint Emilion;Red;1574;1574-1997;49,25;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,5
+Clinet;2013;Pomerol;Red;1348;1348-2013;49,43;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,98
+Meyney;1989;Saint Estephe;Red;1874;1874-1989;49,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,92
+Haut Marbuzet;1998;Saint Estephe;Red;1614;1614-1998;49,77;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,86
+Chapelle de La Mission Haut Brion;2007;Pessac Leognan;Red;1312;1312-2007;50;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,8
+Guiraud;2001;Sauternes;Sweet;1589;1589-2001;50,02;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;93,78
+Lynch Moussas;2003;Pauillac;Red;1424;1424-2003;50,08;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,88
+Saint Pierre;2012;Saint Julien;Red;1858;1858-2012;50,13;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,43
+Malartic Lagraviere;2009;Pessac Leognan;Red;1850;1850-2009;50,7;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,86
+Bellefont Belcier;2012;Saint Emilion;Red;1218;1218-2012;50,99;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,07
+Haut Marbuzet;1996;Saint Estephe;Red;1614;1614-1996;51,1;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,01
+Domaine de Chevalier;2015;Pessac Leognan;Red;1471;1471-2015;51,22;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,99
+La Lagune;2012;Haut Medoc;Red;1992;1992-2012;51,49;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,74
+Clarke;1989;Listrac Medoc;Red;1340;1340-1989;51,68;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,69
+Grand Puy Lacoste;1998;Pauillac;Red;1346;1346-1998;51,68;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,67
+Le Prieure;2009;Saint Emilion;Red;1806;1806-2009;52;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,47
+Le Prieure;2009;Saint Emilion;Red;1806;1806-2009;52;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,47
+Raymond Lafon;2010;Sauternes;Sweet;2016;2016-2010;52;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;92,88
+Climens;2004;Sauternes;Sweet;1347;1347-2004;52,03;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;89,75
+Canon La Gaffeliere;2014;Saint Emilion;Red;1280;1280-2014;52,12;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,92
+Branaire Ducru;2006;Saint Julien;Red;1788;1788-2006;52,23;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,31
+Malartic Lagraviere;2008;Pessac Leognan;Red;1850;1850-2008;52,31;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,42
+Sociando Mallet;2001;Haut Medoc;Red;2085;2085-2001;52,34;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,71
+Grand Mayne;1994;Saint Emilion;Red;1574;1574-1994;52,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91
+Rieussec;2002;Sauternes;Sweet;2030;2030-2002;52,64;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;91,48
+Lagrange;2009;Saint Julien;Red;2002;2002-2009;52,68;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,68
+Laforge;2000;Saint Emilion;Red;1759;1759-2000;53,28;diner, dejeuner, cadeau;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;89,19
+Lynch Moussas;1996;Pauillac;Red;1424;1424-1996;53,33;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,07
+La Tour Blanche;2005;Sauternes;Sweet;1733;1733-2005;53,47;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;91,47
+Chapelle de La Mission Haut Brion;2012;Pessac Leognan;Red;1312;1312-2012;53,58;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,34
+Langoa Barton;2009;Saint Julien;Red;2014;2014-2009;53,94;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,22
+Guiraud;1988;Sauternes;Sweet;1589;1589-1988;54,07;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;88,78
+Cos d'Estournel, Blanc;2012;Bordeaux;White;1392;1392-2012;54,1;Aperitif, diner, dejeuner, cadeau;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;90,54
+de Malle;2001;Sauternes;Sweet;1445;1445-2001;54,16;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;93,6
+Gazin;2013;Pomerol;Red;1554;1554-2013;54,2;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,19
+Lagrange;2010;Saint Julien;Red;2002;2002-2010;54,77;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,84
+Quinault l'Enclos;2000;Saint Emilion;Red;2008;2008-2000;54,82;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,57
+Lynch Moussas;1995;Pauillac;Red;1424;1424-1995;54,92;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,44
+Larrivet Haut Brion;2010;Pessac Leognan;Red;1786;1786-2010;55;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,46
+Clerc Milon;1993;Pauillac;Red;1253;1253-1993;55;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,89
+Bouscaut;2010;Pessac Leognan;Red;1247;1247-2010;55;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,62
+Beauregard;2002;Pomerol;Red;1206;1206-2002;55;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,78
+Branaire Ducru;2011;Saint Julien;Red;1788;1788-2011;55;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,54
+La Fleur Morange;2002;Saint Emilion;Red;1689;1689-2002;55;diner, dejeuner, cadeau;Beef, Veal, Game (deer, venison), Poultry;Boeuf, Veau, Gibier (cerf, chevreuil), Poulet;80,09
+Lynch Moussas;2000;Pauillac;Red;1424;1424-2000;55,02;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,01
+Beauregard;2009;Pomerol;Red;1206;1206-2009;55,25;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,61
+Larcis Ducasse;2014;Saint Emilion;Red;1779;1779-2014;55,5;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,21
+Clinet;2011;Pomerol;Red;1348;1348-2011;55,51;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,42
+Clinet;2012;Pomerol;Red;1348;1348-2012;55,55;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,54
+Langoa Barton;2011;Saint Julien;Red;2014;2014-2011;55,95;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,23
+Climens;2003;Sauternes;Sweet;1347;1347-2003;56;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;97,11
+Canon La Gaffeliere;2013;Saint Emilion;Red;1280;1280-2013;56,12;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,33
+les Carmes Haut Brion;2012;Pessac Leognan;Red;1816;1816-2012;56,17;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,91
+Beau Sejour Becot;2010;Saint Emilion;Red;1202;1202-2010;56,47;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,54
+Malartic Lagraviere;2010;Pessac Leognan;Red;1850;1850-2010;56,61;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,49
+Clos Saint Martin;2010;Saint Emilion;Red;1384;1384-2010;56,68;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,81
+Langoa Barton;1998;Saint Julien;Red;2014;2014-1998;56,81;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,57
+Armailhac;2006;Pauillac;Red;1178;1178-2006;56,93;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,15
+Lynch Bages, Blanc;2013;Bordeaux;White;1840;1840-2013;57,18;Aperitif, diner, dejeuner, cadeau;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;90,43
+Armailhac;2000;Pauillac;Red;1178;1178-2000;57,19;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,06
+Clinet;2014;Pomerol;Red;1348;1348-2014;57,23;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,32
+les Carmes Haut Brion;2009;Pessac Leognan;Red;1816;1816-2009;57,4;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,48
+Nenin;2012;Pomerol;Red;1915;1915-2012;57,41;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,44
+Clarke;1990;Listrac Medoc;Red;1340;1340-1990;57,42;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,69
+Armailhac;2002;Pauillac;Red;1178;1178-2002;58;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,19
+les Carmes Haut Brion;2011;Pessac Leognan;Red;1816;1816-2011;58,15;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,46
+Larcis Ducasse;2012;Saint Emilion;Red;1779;1779-2012;58,2;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,92
+Rieussec;2005;Sauternes;Sweet;2030;2030-2005;58,41;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;92,83
+Potensac;1990;Medoc;Red;1991;1991-1990;58,63;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,37
+Domaine de Chevalier;2008;Pessac Leognan;Red;1471;1471-2008;58,88;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,39
+Cantemerle;2000;Haut Medoc;Red;1252;1252-2000;59;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,68
+Beauregard;2010;Pomerol;Red;1206;1206-2010;59;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,72
+Beau Sejour Becot;2007;Saint Emilion;Red;1202;1202-2007;59;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,21
+Grand Puy Lacoste;2001;Pauillac;Red;1346;1346-2001;59,16;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,65
+Nairac;2001;Sauternes;Sweet;1914;1914-2001;59,33;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;93,65
+Virginie de Valandraud;2005;Saint Emilion;Red;2152;2152-2005;59,33;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,59
+Rol Valentin;2005;Saint Emilion;Red;2037;2037-2005;59,43;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,24
+La Lagune;2011;Haut Medoc;Red;1992;1992-2011;59,58;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,35
+Alter Ego de Palmer;2010;Margaux;Red;1167;1167-2010;59,81;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,86
+Chapelle de La Mission Haut Brion;2003;Pessac Leognan;Red;1312;1312-2003;60;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,49
+Rayne Vigneau;1986;Sauternes;Sweet;2017;2017-1986;60,62;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;89,78
+Armailhac;2004;Pauillac;Red;1178;1178-2004;62;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,96
+Berliquet;2000;Saint Emilion;Red;1228;1228-2000;62,02;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,59
+Canon La Gaffeliere;2015;Saint Emilion;Red;1280;1280-2015;62,34;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,92
+Larcis Ducasse;2015;Saint Emilion;Red;1779;1779-2015;62,48;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,15
+Saint Pierre;2006;Saint Julien;Red;1858;1858-2006;63;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,29
+Gazin;2011;Pomerol;Red;1554;1554-2011;63,63;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,91
+Gazin;2011;Pomerol;Red;1554;1554-2011;63,63;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,91
+Gazin;2011;Pomerol;Red;1554;1554-2011;63,63;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,91
+Sociando Mallet;2000;Haut Medoc;Red;2085;2085-2000;63,73;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,17
+Haut Marbuzet;2000;Saint Estephe;Red;1614;1614-2000;63,84;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,62
+Beau Sejour Becot;2003;Saint Emilion;Red;1202;1202-2003;64;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,34
+Beau Sejour Becot;2011;Saint Emilion;Red;1202;1202-2011;64;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,64
+La Lagune;2002;Haut Medoc;Red;1992;1992-2002;64,58;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,87
+Gazin;2012;Pomerol;Red;1554;1554-2012;64,72;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,02
+Gazin;2012;Pomerol;Red;1554;1554-2012;64,72;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,02
+les Carmes Haut Brion;2015;Pessac Leognan;Red;1816;1816-2015;64,77;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,95
+Chapelle de La Mission Haut Brion;2008;Pessac Leognan;Red;1312;1312-2008;65;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,7
+carillon de l'angelus;2013;Saint Emilion;Red;1296;1296-2013;65;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,95
+Dassault;2004;Saint Emilion;Red;1422;1422-2004;65;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,1
+Clos Saint Martin;2011;Saint Emilion;Red;1384;1384-2011;65;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,93
+Chapelle de La Mission Haut Brion;2011;Pessac Leognan;Red;1312;1312-2011;65,2;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,36
+Lynch Bages;1984;Pauillac;Red;1408;1408-1984;65,29;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;83,33
+Gazin;1999;Pomerol;Red;1554;1554-1999;65,29;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,89
+Haut Marbuzet;1990;Saint Estephe;Red;1614;1614-1990;65,6;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,69
+La Tour Blanche;1990;Sauternes;Sweet;1733;1733-1990;66,82;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;88,82
+Branaire Ducru;2010;Saint Julien;Red;1788;1788-2010;66,97;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,79
+Cantemerle;1989;Haut Medoc;Red;1252;1252-1989;67,3;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,36
+Sociando Mallet;1995;Haut Medoc;Red;2085;2085-1995;67,44;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,82
+Grand Puy Lacoste;1988;Pauillac;Red;1346;1346-1988;67,84;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,1
+Bastor Lamontagne;1988;Sauternes;Sweet;1197;1197-1988;67,87;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;83,1
+Clerc Milon;2004;Pauillac;Red;1253;1253-2004;67,94;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,44
+Pensees de Lafleur;2008;Pomerol;Red;1956;1956-2008;67,95;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,53
+Grand Puy Lacoste;1999;Pauillac;Red;1346;1346-1999;68,62;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,88
+Pichon Baron;1997;Pauillac;Red;1596;1596-1997;68,91;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,06
+de Fargues;2006;Sauternes;Sweet;1433;1433-2006;68,93;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;92,9
+Cantemerle;1996;Haut Medoc;Red;1252;1252-1996;69;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,72
+Le Gay;2007;Pomerol;Red;1800;1800-2007;69;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,54
+Nenin;2010;Pomerol;Red;1915;1915-2010;69;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,74
+Beau Sejour Becot;1995;Saint Emilion;Red;1202;1202-1995;69;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,53
+Domaine de Chevalier;2009;Pessac Leognan;Red;1471;1471-2009;69,02;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;95,03
+de Fargues;2004;Sauternes;Sweet;1433;1433-2004;69,06;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;89,05
+Climens;2008;Sauternes;Sweet;1347;1347-2008;69,2;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;93,52
+Clinet;1996;Pomerol;Red;1348;1348-1996;69,68;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,64
+La Providence;2011;Pomerol;Red;1723;1723-2011;70,29;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,37
+Haut Marbuzet;2005;Saint Estephe;Red;1614;1614-2005;70,29;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,2
+Clos Fourtet;2013;Saint Emilion;Red;1370;1370-2013;70,38;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,17
+Quinault l'Enclos;1998;Saint Emilion;Red;2008;2008-1998;71;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,54
+Haut Bages Liberal;1995;Pauillac;Red;1391;1391-1995;71,08;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,27
+Climens;2006;Sauternes;Sweet;1347;1347-2006;71,16;diner, dejeuner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;93,69
+Saint Pierre;2005;Saint Julien;Red;1858;1858-2005;71,17;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,29
+Dassault;1982;Saint Emilion;Red;1422;1422-1982;71,28;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,69
+Clerc Milon;2001;Pauillac;Red;1253;1253-2001;71,78;diner, dejeuner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,23
+Cos d'Estournel, Blanc;2014;Bordeaux;White;1392;1392-2014;71,92;Aperitif, diner, dejeuner, cadeau;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;91,94
+Dassault;2003;Saint Emilion;Red;1422;1422-2003;72;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,22
+de Fargues;2002;Sauternes;Sweet;1433;1433-2002;72;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;92,35
+carillon de l'angelus;2011;Saint Emilion;Red;1296;1296-2011;72,1;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,58
+Clos Fourtet;2008;Saint Emilion;Red;1370;1370-2008;72,35;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,47
+Alter Ego de Palmer;2009;Margaux;Red;1167;1167-2009;72,43;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,36
+de Fargues;2001;Sauternes;Sweet;1433;1433-2001;72,5;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;96,85
+Pensees de Lafleur;2007;Pomerol;Red;1956;1956-2007;72,62;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+Beau Sejour Becot;1997;Saint Emilion;Red;1202;1202-1997;72,67;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,94
+carillon de l'angelus;2012;Saint Emilion;Red;1296;1296-2012;73,03;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,97
+Pensees de Lafleur;2002;Pomerol;Red;1956;1956-2002;73,5;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,19
+Pontet Canet;2001;Pauillac;Red;1491;1491-2001;73,5;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,23
+Climens;2007;Sauternes;Sweet;1347;1347-2007;73,68;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;96,41
+Le Gay;2008;Pomerol;Red;1800;1800-2008;74,65;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,42
+Cos d'Estournel;1981;Saint Estephe;Red;1497;1497-1981;74,97;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;84,31
+Dassault;1995;Saint Emilion;Red;1422;1422-1995;75;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,56
+Saint Pierre;2010;Saint Julien;Red;1858;1858-2010;75,29;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,06
+Clos Fourtet;2004;Saint Emilion;Red;1370;1370-2004;75,6;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,12
+Pavie Decesse;1999;Saint Emilion;Red;1944;1944-1999;75,7;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,16
+La Lagune;2008;Haut Medoc;Red;1992;1992-2008;76;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,54
+Sociando Mallet;1998;Haut Medoc;Red;2085;2085-1998;76,22;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,48
+La Providence;2010;Pomerol;Red;1723;1723-2010;76,51;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,91
+Grand Puy Lacoste;1983;Pauillac;Red;1346;1346-1983;76,89;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,4
+Pavie Decesse;2004;Saint Emilion;Red;1944;1944-2004;77,18;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,79
+Nenin;2000;Pomerol;Red;1915;1915-2000;78,12;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,55
+Clos Fourtet;2015;Saint Emilion;Red;1370;1370-2015;78,45;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;95,58
+les Carmes Haut Brion;2008;Pessac Leognan;Red;1816;1816-2008;79;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,32
+Beau Sejour Becot;2005;Saint Emilion;Red;1202;1202-2005;79,4;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,87
+Sociando Mallet;1994;Haut Medoc;Red;2085;2085-1994;80;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,73
+Nenin;2006;Pomerol;Red;1915;1915-2006;80;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,59
+Lynch Bages;1993;Pauillac;Red;1408;1408-1993;80,39;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,89
+Meyney;1982;Saint Estephe;Red;1874;1874-1982;80,39;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,83
+Climens;2000;Sauternes;Sweet;1347;1347-2000;80,75;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;89,03
+Chasse Spleen;1995;Moulis en Medoc;Red;1321;1321-1995;80,75;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,45
+Saint Pierre;2009;Saint Julien;Red;1858;1858-2009;80,77;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,94
+Climens;1983;Sauternes;Sweet;1347;1347-1983;81,21;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;93,8
+Larcis Ducasse;2010;Saint Emilion;Red;1779;1779-2010;81,41;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,09
+Malartic Lagraviere;1988;Pessac Leognan;Red;1850;1850-1988;81,65;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;80,27
+Grand Puy Lacoste;2002;Pauillac;Red;1346;1346-2002;82;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,72
+Dassault;2001;Saint Emilion;Red;1422;1422-2001;82;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,56
+Pensees de Lafleur;2004;Pomerol;Red;1956;1956-2004;82,5;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,19
+Climens;2009;Sauternes;Sweet;1347;1347-2009;83,21;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;97,52
+Clinet;1994;Pomerol;Red;1348;1348-1994;83,25;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,84
+Clos Fourtet;2003;Saint Emilion;Red;1370;1370-2003;83,26;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,49
+Chapelle de La Mission Haut Brion;2009;Pessac Leognan;Red;1312;1312-2009;83,61;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,33
+Clarence de Haut Brion;2004;Pessac Leognan;Red;1336;1336-2004;83,94;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;68,34
+Haut Marbuzet;1989;Saint Estephe;Red;1614;1614-1989;83,94;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,25
+Clarence de Haut Brion;2012;Pessac Leognan;Red;1336;1336-2012;84,06;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,76
+Rocheyron;2011;Saint Emilion;Red;4965;4965-2011;84,33;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,33
+La Gomerie;1999;Saint Emilion;Red;1701;1701-1999;85;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,78
+Canon La Gaffeliere;2000;Saint Emilion;Red;1280;1280-2000;85,03;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,32
+Clos Fourtet;2012;Saint Emilion;Red;1370;1370-2012;85,54;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,99
+Gazin;2005;Pomerol;Red;1554;1554-2005;85,72;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,15
+Gazin;2005;Pomerol;Red;1554;1554-2005;85,72;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,15
+Climens;2010;Sauternes;Sweet;1347;1347-2010;85,78;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;96,37
+Branaire Ducru;1985;Saint Julien;Red;1788;1788-1985;86,13;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,27
+carillon de l'angelus;2010;Saint Emilion;Red;1296;1296-2010;87,45;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,19
+La Lagune;2000;Haut Medoc;Red;1992;1992-2000;88;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,05
+Bastor Lamontagne;1990;Sauternes;Sweet;1197;1197-1990;88,28;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;92,12
+Haut Marbuzet;1983;Saint Estephe;Red;1614;1614-1983;88,6;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,22
+Climens;2005;Sauternes;Sweet;1347;1347-2005;88,83;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;95,69
+Chasse Spleen;1996;Moulis en Medoc;Red;1321;1321-1996;88,83;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,15
+Sociando Mallet;2002;Haut Medoc;Red;2085;2085-2002;89;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,68
+Dassault;2005;Saint Emilion;Red;1422;1422-2005;89;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,22
+Bastor Lamontagne;1989;Sauternes;Sweet;1197;1197-1989;89;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;85,88
+de Fargues;2011;Sauternes;Sweet;1433;1433-2011;89,86;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;94,83
+Grand Puy Lacoste;1995;Pauillac;Red;1346;1346-1995;90,31;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,99
+Pontet Canet;1996;Pauillac;Red;1491;1491-1996;90,92;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,84
+Rieussec;1990;Sauternes;Sweet;2030;2030-1990;91,87;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;94,52
+Dassault;1998;Saint Emilion;Red;1422;1422-1998;92;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,41
+La Violette;2005;Pomerol;Red;1745;1745-2005;92,12;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,02
+Haut Marbuzet;1985;Saint Estephe;Red;1614;1614-1985;93,27;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,21
+Vieux Chateau Certan;1996;Pomerol;Red;2141;2141-1996;93,8;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,2
+Gazin;2010;Pomerol;Red;1554;1554-2010;94,51;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,67
+Gazin;2010;Pomerol;Red;1554;1554-2010;94,51;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,67
+Gazin;2010;Pomerol;Red;1554;1554-2010;94,51;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,67
+Pontet Canet;1995;Pauillac;Red;1491;1491-1995;94,68;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,66
+Clinet;2003;Pomerol;Red;1348;1348-2003;95;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,87
+Vieux Chateau Certan;2004;Pomerol;Red;2141;2141-2004;95,7;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,69
+Clerc Milon;2005;Pauillac;Red;1253;1253-2005;96,47;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,54
+de Fargues;2005;Sauternes;Sweet;1433;1433-2005;96,73;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;93,62
+Valandraud;2012;Saint Emilion;Red;2133;2133-2012;96,76;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,68
+Gazin;2009;Pomerol;Red;1554;1554-2009;97,19;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,91
+Gazin;2009;Pomerol;Red;1554;1554-2009;97,19;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,91
+Le Gay;2001;Pomerol;Red;1800;1800-2001;97,2;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,24
+Nenin;1997;Pomerol;Red;1915;1915-1997;98;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,42
+Malartic Lagraviere;1986;Pessac Leognan;Red;1850;1850-1986;98,48;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;85,84
+Beauregard;2001;Pomerol;Red;1206;1206-2001;99;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,37
+Dassault;1989;Saint Emilion;Red;1422;1422-1989;99;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;84
+Dassault;2000;Saint Emilion;Red;1422;1422-2000;99;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,22
+Pavie Decesse;1998;Saint Emilion;Red;1944;1944-1998;99,5;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,25
+Clos Fourtet;2011;Saint Emilion;Red;1370;1370-2011;100;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,48
+Clinet;2010;Pomerol;Red;1348;1348-2010;100,92;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,57
+Le Gay;2011;Pomerol;Red;1800;1800-2011;100,92;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,8
+Vieux Chateau Certan;2008;Pomerol;Red;2141;2141-2008;101,13;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,24
+Guiraud;1990;Sauternes;Sweet;1589;1589-1990;101,18;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;92,28
+Clinet;2008;Pomerol;Red;1348;1348-2008;101,51;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,18
+Clos Saint Martin;2000;Saint Emilion;Red;1384;1384-2000;102,5;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,82
+Pensees de Lafleur;1995;Pomerol;Red;1956;1956-1995;103,36;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,38
+Clarence de Haut Brion;2011;Pessac Leognan;Red;1336;1336-2011;103,53;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,44
+Pavie Decesse;2000;Saint Emilion;Red;1944;1944-2000;103,8;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,12
+Clarence de Haut Brion;2006;Pessac Leognan;Red;1336;1336-2006;104,03;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,61
+Climens;1996;Sauternes;Sweet;1347;1347-1996;104,36;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;92,01
+Clerc Milon;2006;Pauillac;Red;1253;1253-2006;105;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,02
+de Fargues;2008;Sauternes;Sweet;1433;1433-2008;105;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;93,49
+Valandraud;2003;Saint Emilion;Red;2133;2133-2003;105,28;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,33
+de Fargues;2007;Sauternes;Sweet;1433;1433-2007;107,11;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;93,58
+Vieux Chateau Certan;2013;Pomerol;Red;2141;2141-2013;107,75;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,04
+Phelan Segur;1990;Saint Estephe;Red;1973;1973-1990;108;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,85
+de Fargues;1985;Sauternes;Sweet;1433;1433-1985;108,66;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;89,67
+Clarence de Haut Brion;2007;Pessac Leognan;Red;1336;1336-2007;110;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,03
+La Gomerie;2001;Saint Emilion;Red;1701;1701-2001;110;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,61
+Le Gay;2006;Pomerol;Red;1800;1800-2006;110,04;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,42
+La Violette;2006;Pomerol;Red;1745;1745-2006;110,54;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,58
+Pavie Decesse;2008;Saint Emilion;Red;1944;1944-2008;111,31;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,33
+Branaire Ducru;2005;Saint Julien;Red;1788;1788-2005;111,5;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,4
+Chapelle de La Mission Haut Brion;2010;Pessac Leognan;Red;1312;1312-2010;112,13;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,83
+Saint Pierre;2000;Saint Julien;Red;1858;1858-2000;113,08;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88
+Clinet;1998;Pomerol;Red;1348;1348-1998;114;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,03
+Vieux Chateau Certan;2003;Pomerol;Red;2141;2141-2003;114,44;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,11
+Climens;1988;Sauternes;Sweet;1347;1347-1988;115,99;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;94,08
+Tertre Roteboeuf;2012;Saint Emilion;Red;2102;2102-2012;116,68;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,11
+Figeac;2003;Saint Emilion;Red;1519;1519-2003;117,14;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,46
+Canon La Gaffeliere;1982;Saint Emilion;Red;1280;1280-1982;117,25;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,12
+Grand Puy Lacoste;1989;Pauillac;Red;1346;1346-1989;117,38;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,79
+Clos Dubreuil;2000;Saint Emilion;Red;1367;1367-2000;117,45;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,19
+Montrose;1995;Saint Estephe;Red;1593;1593-1995;119,64;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,34
+Cos d'Estournel;1988;Saint Estephe;Red;1497;1497-1988;121,25;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,72
+Climens;1990;Sauternes;Sweet;1347;1347-1990;123,2;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;95,16
+Tertre Roteboeuf;2011;Saint Emilion;Red;2102;2102-2011;123,77;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,21
+Haut Bailly;2010;Pessac Leognan;Red;1595;1595-2010;124,26;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;95,16
+de Fargues;2009;Sauternes;Sweet;1433;1433-2009;124,6;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;94,91
+Petit Cheval;2014;Saint Emilion;Red;1958;1958-2014;124,88;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,73
+Pavie Decesse;2012;Saint Emilion;Red;1944;1944-2012;124,95;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,97
+La Gomerie;1998;Saint Emilion;Red;1701;1701-1998;125;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,5
+de Fargues;2010;Sauternes;Sweet;1433;1433-2010;125,94;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;93,14
+Vieux Chateau Certan;2006;Pomerol;Red;2141;2141-2006;126,8;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,81
+Pavie Decesse;2005;Saint Emilion;Red;1944;1944-2005;127,74;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,48
+Figeac;1996;Saint Emilion;Red;1519;1519-1996;127,94;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,69
+de Fargues;1990;Sauternes;Sweet;1433;1433-1990;128;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;92,66
+Montrose;1996;Saint Estephe;Red;1593;1593-1996;128,55;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,6
+Pensees de Lafleur;2000;Pomerol;Red;1956;1956-2000;129,2;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+Clos Fourtet;2001;Saint Emilion;Red;1370;1370-2001;129,25;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,19
+Pontet Canet;1990;Pauillac;Red;1491;1491-1990;130,57;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,02
+Clarence de Haut Brion;2009;Pessac Leognan;Red;1336;1336-2009;130,81;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,25
+Grand Puy Lacoste;1996;Pauillac;Red;1346;1346-1996;130,88;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,43
+Vieux Chateau Certan;2001;Pomerol;Red;2141;2141-2001;131,91;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,65
+Le Gay;2009;Pomerol;Red;1800;1800-2009;132,28;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,95
+Clos Fourtet;2010;Saint Emilion;Red;1370;1370-2010;135;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;95,32
+Clarence de Haut Brion;2005;Pessac Leognan;Red;1336;1336-2005;135,27;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,77
+Beau Sejour Becot;2000;Saint Emilion;Red;1202;1202-2000;135,75;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,28
+Grand Puy Lacoste;2000;Pauillac;Red;1346;1346-2000;136,52;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,63
+Clarence de Haut Brion;2008;Pessac Leognan;Red;1336;1336-2008;136,65;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,28
+Pontet Canet;2000;Pauillac;Red;1491;1491-2000;137,93;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,09
+Clinet;2006;Pomerol;Red;1348;1348-2006;138;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,72
+Canon La Gaffeliere;1998;Saint Emilion;Red;1280;1280-1998;138;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,93
+Leoville Las Cases;1998;Saint Julien;Red;1580;1580-1998;138,17;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,69
+La Gomerie;1996;Saint Emilion;Red;1701;1701-1996;139,8;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,76
+Petit Cheval;2009;Saint Emilion;Red;1958;1958-2009;139,9;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,36
+Clarence de Haut Brion;2003;Pessac Leognan;Red;1336;1336-2003;140;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,59
+Figeac;1985;Saint Emilion;Red;1519;1519-1985;140,08;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,3
+Lynch Bages;1988;Pauillac;Red;1408;1408-1988;140,53;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,02
+La Mondotte;2014;Saint Emilion;Red;1717;1717-2014;142,37;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,61
+Pichon Baron;1996;Pauillac;Red;1596;1596-1996;142,93;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,59
+Clos Saint Martin;2005;Saint Emilion;Red;1384;1384-2005;142,98;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,11
+Vieux Chateau Certan;2011;Pomerol;Red;2141;2141-2011;143,26;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;96,21
+La Mondotte;2004;Saint Emilion;Red;1717;1717-2004;143,55;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,89
+Sociando Mallet;1996;Haut Medoc;Red;2085;2085-1996;144;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,51
+Leoville Las Cases;1999;Saint Julien;Red;1580;1580-1999;144,16;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,33
+Pichon Baron;1995;Pauillac;Red;1596;1596-1995;144,57;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,99
+Clos Fourtet;2005;Saint Emilion;Red;1370;1370-2005;145,38;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,95
+Clarence de Haut Brion;2010;Pessac Leognan;Red;1336;1336-2010;146,96;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,09
+Petit Cheval;2004;Saint Emilion;Red;1958;1958-2004;147,24;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,58
+Rieussec;2001;Sauternes;Sweet;2030;2030-2001;147,9;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;97,29
+Pavillon Blanc;2014;Bordeaux;White;1946;1946-2014;149;Aperitif, diner, dejeuner, cadeau;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;94,75
+Vieux Chateau Certan;2012;Pomerol;Red;2141;2141-2012;149,07;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,75
+Petit Cheval;2005;Saint Emilion;Red;1958;1958-2005;149,23;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,23
+Petit Cheval;2008;Saint Emilion;Red;1958;1958-2008;150;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,37
+Beauregard;1998;Pomerol;Red;1206;1206-1998;150;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,57
+Valandraud;2011;Saint Emilion;Red;2133;2133-2011;152,74;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,83
+Canon La Gaffeliere;1999;Saint Emilion;Red;1280;1280-1999;155,08;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,96
+Leoville Las Cases;2001;Saint Julien;Red;1580;1580-2001;158,48;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,93
+Pavillon Blanc;2012;Bordeaux;White;1946;1946-2012;160,3;Aperitif, diner, dejeuner, cadeau;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;92,45
+Leoville Las Cases;2003;Saint Julien;Red;1580;1580-2003;162,44;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,52
+Climens;2001;Sauternes;Sweet;1347;1347-2001;162,7;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;97,09
+La Mondotte;1998;Saint Emilion;Red;1717;1717-1998;162,7;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,25
+Le Gay;2005;Pomerol;Red;1800;1800-2005;163,43;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,34
+Pavillon Blanc;2004;Bordeaux;White;1946;1946-2004;166,35;Aperitif, diner, dejeuner, cadeau;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;92,9
+La Mondotte;2001;Saint Emilion;Red;1717;1717-2001;167,48;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,41
+Clinet;1995;Pomerol;Red;1348;1348-1995;168;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,65
+La Violette;2011;Pomerol;Red;1745;1745-2011;168,56;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,86
+Leoville Las Cases;2002;Saint Julien;Red;1580;1580-2002;169,91;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,67
+Pavillon Blanc;2011;Bordeaux;White;1946;1946-2011;170;Aperitif, diner, dejeuner, cadeau;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;93,76
+Le Gay;2010;Pomerol;Red;1800;1800-2010;170;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,34
+Leoville Las Cases;2004;Saint Julien;Red;1580;1580-2004;171,16;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,77
+Leoville Las Cases;1989;Saint Julien;Red;1580;1580-1989;172,54;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,64
+Pavillon Blanc;2007;Bordeaux;White;1946;1946-2007;175;Aperitif, diner, dejeuner, cadeau;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;93,72
+Leoville Las Cases;2006;Saint Julien;Red;1580;1580-2006;175,37;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;96,05
+La Mondotte;2003;Saint Emilion;Red;1717;1717-2003;177,06;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,31
+Tertre Roteboeuf;2010;Saint Emilion;Red;2102;2102-2010;179,5;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;96,06
+Figeac;1989;Saint Emilion;Red;1519;1519-1989;181,45;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,57
+Leoville Las Cases;1983;Saint Julien;Red;1580;1580-1983;181,83;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,1
+Lynch Bages;1985;Pauillac;Red;1408;1408-1985;181,87;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,5
+Pavie Decesse;2003;Saint Emilion;Red;1944;1944-2003;186;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,41
+Pavillon Blanc;2008;Bordeaux;White;1946;1946-2008;186,7;Aperitif, diner, dejeuner, cadeau;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;91,07
+Carruades de Lafite;1998;Pauillac;Red;1299;1299-1998;195,31;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,42
+Pavillon Blanc;2006;Bordeaux;White;1946;1946-2006;199;Aperitif, diner, dejeuner, cadeau;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;93,06
+Carruades de Lafite;1995;Pauillac;Red;1299;1299-1995;200,98;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,59
+Vieux Chateau Certan;2005;Pomerol;Red;2141;2141-2005;202,75;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;95,73
+La Mondotte;2015;Saint Emilion;Red;1717;1717-2015;203,97;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;95,52
+Pavie Decesse;2009;Saint Emilion;Red;1944;1944-2009;210,6;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,49
+Cos d'Estournel;1990;Saint Estephe;Red;1497;1497-1990;211,69;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,52
+Sociando Mallet;1990;Haut Medoc;Red;2085;2085-1990;214,12;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,8
+Figeac;1990;Saint Emilion;Red;1519;1519-1990;214,51;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,77
+Larcis Ducasse;2005;Saint Emilion;Red;1779;1779-2005;216,73;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,7
+Carruades de Lafite;2001;Pauillac;Red;1299;1299-2001;217,5;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89
+Pichon Baron;1988;Pauillac;Red;1596;1596-1988;223,13;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,01
+Angelus;1985;Saint Emilion;Red;1173;1173-1985;223,84;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,62
+Valandraud;2010;Saint Emilion;Red;2133;2133-2010;224,31;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;95,63
+Figeac;1998;Saint Emilion;Red;1519;1519-1998;225,38;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,48
+Carruades de Lafite;2011;Pauillac;Red;1299;1299-2011;225,71;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,09
+Vieux Chateau Certan;1998;Pomerol;Red;2141;2141-1998;229;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,78
+Grand Puy Lacoste;1990;Pauillac;Red;1346;1346-1990;229,69;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;95,21
+Carruades de Lafite;2004;Pauillac;Red;1299;1299-2004;232,61;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,06
+Valandraud;2004;Saint Emilion;Red;2133;2133-2004;233,17;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,61
+Clos Fourtet;2009;Saint Emilion;Red;1370;1370-2009;236,79;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,67
+Carruades de Lafite;2009;Pauillac;Red;1299;1299-2009;240,69;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,63
+Carruades de Lafite;2010;Pauillac;Red;1299;1299-2010;244,17;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,67
+Carruades de Lafite;1996;Pauillac;Red;1299;1299-1996;244,45;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,41
+Palmer;2001;Margaux;Red;2094;2094-2001;245,77;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,27
+Leoville Las Cases;2005;Saint Julien;Red;1580;1580-2005;249,43;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;98,38
+Petit Cheval;2010;Saint Emilion;Red;1958;1958-2010;250,03;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,12
+Vieux Chateau Certan;1990;Pomerol;Red;2141;2141-1990;252,65;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,67
+Leoville Las Cases;1996;Saint Julien;Red;1580;1580-1996;254,39;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;95,46
+Clinet;2009;Pomerol;Red;1348;1348-2009;257,75;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,59
+Guiraud;1989;Sauternes;Sweet;1589;1589-1989;265;diner, cadeau;Fruity desserts, Blue cheese;desserts aux fruits, roquefort;89,92
+Petit Cheval;2011;Saint Emilion;Red;1958;1958-2011;266;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,51
+Montrose;1982;Saint Estephe;Red;1593;1593-1982;268,74;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,29
+Petit Cheval;2006;Saint Emilion;Red;1958;1958-2006;270;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,07
+Leoville Las Cases;1985;Saint Julien;Red;1580;1580-1985;270,48;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,61
+Petit Cheval;2007;Saint Emilion;Red;1958;1958-2007;275;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,3
+Chasse Spleen;1989;Moulis en Medoc;Red;1321;1321-1989;275;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,37
+Valandraud;2009;Saint Emilion;Red;2133;2133-2009;275,14;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;95,63
+Clarence de Haut Brion;2000;Pessac Leognan;Red;1336;1336-2000;280;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;86,67
+Pavillon Blanc;2009;Bordeaux;White;1946;1946-2009;281,5;Aperitif, diner, dejeuner, cadeau;Pork, Vegetarian, Poultry, Apertizers and snacks,  Lean fish;Porc, Vegetarien, Poulet, Amuse gueule et aperitifs,  Poisson maigre;93,12
+Pichon Baron;1989;Pauillac;Red;1596;1596-1989;281,96;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,63
+Leoville Las Cases;2000;Saint Julien;Red;1580;1580-2000;285,28;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;98,89
+Leoville Las Cases;1990;Saint Julien;Red;1580;1580-1990;288,94;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;95,91
+Valandraud;2005;Saint Emilion;Red;2133;2133-2005;292,15;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,22
+Vieux Chateau Certan;2010;Pomerol;Red;2141;2141-2010;294,21;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;98,82
+Angelus;2003;Saint Emilion;Red;1173;1173-2003;296,67;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;92,66
+Angelus;1998;Saint Emilion;Red;1173;1173-1998;308,96;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,6
+Pichon Baron;1990;Pauillac;Red;1596;1596-1990;317,11;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;95,97
+Vieux Chateau Certan;2009;Pomerol;Red;2141;2141-2009;320,26;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;97,86
+Carruades de Lafite;2008;Pauillac;Red;1299;1299-2008;320,34;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,58
+Carruades de Lafite;2002;Pauillac;Red;1299;1299-2002;320,84;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,96
+Clinet;1990;Pomerol;Red;1348;1348-1990;326,43;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,1
+Tertre Roteboeuf;1990;Saint Emilion;Red;2102;2102-1990;326,43;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,38
+Cos d'Estournel;1982;Saint Estephe;Red;1497;1497-1982;330,45;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;96,27
+Vieux Chateau Certan;2000;Pomerol;Red;2141;2141-2000;341;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;95,37
+Carruades de Lafite;2006;Pauillac;Red;1299;1299-2006;349;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,51
+Lynch Bages;1990;Pauillac;Red;1408;1408-1990;360,17;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;97,9
+Angelus;1989;Saint Emilion;Red;1173;1173-1989;396,39;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;96,3
+Carruades de Lafite;2005;Pauillac;Red;1299;1299-2005;402,91;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,56
+Leoville Las Cases;1982;Saint Julien;Red;1580;1580-1982;405,71;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,74
+Carruades de Lafite;2007;Pauillac;Red;1299;1299-2007;412,9;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;89,24
+La Mondotte;2009;Saint Emilion;Red;1717;1717-2009;424,36;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;96,17
+La Violette;2009;Pomerol;Red;1745;1745-2009;441,27;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;93,15
+Petit Cheval;2003;Saint Emilion;Red;1958;1958-2003;452,5;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,29
+Angelus;2000;Saint Emilion;Red;1173;1173-2000;478,51;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;96,34
+La Mondotte;2000;Saint Emilion;Red;1717;1717-2000;512,51;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;95,49
+Montrose;1990;Saint Estephe;Red;1593;1593-1990;593,45;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;96,66
+Angelus;1990;Saint Emilion;Red;1173;1173-1990;606,23;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;97,38
+Lafite Rothschild;1983;Pauillac;Red;1754;1754-1983;792,76;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;91,96
+Lafite Rothschild;1985;Pauillac;Red;1754;1754-1985;839,4;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,29
+Clinet;1989;Pomerol;Red;1348;1348-1989;848,7;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;95,15
+Lafite Rothschild;1986;Pauillac;Red;1754;1754-1986;1227,69;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;95,99
+Petrus;1984;Pomerol;Red;1969;1969-1984;1399;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;84,59
+Petrus;1986;Pomerol;Red;1969;1969-1986;1585,53;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,7
+Mouton Rothschild;2000;Pauillac;Red;1760;1760-2000;1714,3;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,06
+Petrus;1983;Pomerol;Red;1969;1969-1983;1722,64;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;88,46
+Petrus;1981;Pomerol;Red;1969;1969-1981;1725,43;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;87,27
+Petrus;1985;Pomerol;Red;1969;1969-1985;1772,06;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;90,96
+Le Pin;2005;Pomerol;Red;1805;1805-2005;2727,51;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;94,57
+Lafite Rothschild;1982;Pauillac;Red;1754;1754-1982;3637,39;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;96,9
+Petrus;1982;Pomerol;Red;1969;1969-1982;4653,98;diner, cadeau;Beef,  Lamb, Game (deer, venison), Poultry;Boeuf, Agneau, Gibier (cerf, chevreuil), Poulet;95,97

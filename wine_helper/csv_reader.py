@@ -3,12 +3,13 @@ import csv
 import requests as re
 import api_tools as api
 import json
+from pprint import pprint
 
 API_BASE_URL = "http://wine-helper-fake-api.herokuapp.com/api/wines"
 
 def read_csv_file(file_name):
     """
-    Read the file with file_name name, except if it is not a csv file.
+    Read the file with file_name name, except if it is not a csv file. Add the datas to the API of url API_BASE_URL.
     """
     csv_file = open(file_name, 'rb')
     rd = csv.reader(csv_file, delimiter=';',quoting=csv.QUOTE_ALL)
@@ -22,8 +23,8 @@ def read_csv_file(file_name):
         nb_rd_rows = nb_rd_rows + 1
         if nb_rd_rows != 1:
             for current_element in row:
-                current_element = current_element.replace("é","e")
-                current_element = current_element.replace("à","a")
+                #current_element = current_element.replace("e","e")
+                #current_element = current_element.replace("a","a")
                 current_element = current_element.lower()
                 to_add = []
                 # Case of float
@@ -55,6 +56,23 @@ def read_csv_file(file_name):
                 #print(current_request.reason)
                 print("\n\n")
 
+def search_translation(file_name,line_original_language,line_new_language,to_translate):
+    """
+    Translate the string to_translate from the first language into the second language. The function look in the file
+    of name file_name.
+    """
+    csv_file = open(file_name, 'rb')
+    rd = csv.reader(csv_file, delimiter=';',quoting=csv.QUOTE_ALL)
+    nb_row = 0
+    for row in rd:
+        nb_row += 1
+        if line_original_language >= 0 and line_new_language >= 0:
+            if row[line_original_language] == to_translate:
+                to_translate = row[line_new_language]
+                break
+    return to_translate
+
+
 def adapt_type_number(current_element):
     is_number = True
     for char in current_element:
@@ -69,48 +87,5 @@ def adapt_type_number(current_element):
         return current_element
 
 
-def test_function(current_element):
-    to_add = []
-    current_object = {}
-    # Case of float
-    if current_element[0] >= "0" and current_element[0] <= "9":
-        if ',' in current_element:
-            current_element = current_element.replace(",",".")
-        to_add.append(float(current_element))
-    else:
-        print("COUCOU")
-        is_in_parenthesis = False
-        to_add = current_element.split(',')
-        special_index = -1
-        special_value = ""
-        for nb in range(len(to_add)):
-            print("IN")
-            if is_in_parenthesis == True:
-                if special_index >=0:
-                    to_add[nb] = special_value + " " + to_add[nb]
-            if '(' in to_add[nb]:
-                print("OPEN PARENTHESIS")
-                if nb >= 1:
-                    special_index = nb
-                    special_value = to_add[nb].split("(")[0]
-                is_in_parenthesis = True
-                to_add[nb] = to_add[nb].replace("(","")
-            elif ')' in to_add[nb]:
-                print("CLOSE PARENTHESIS")
-                to_add[nb] = to_add[nb].replace(")","")
-                is_in_parenthesis = False
-    print("TO_ADD:\n\n")
-    print(to_add)
-
-read_csv_file("/Users/aymesr/Desktop/Cours/Cours3A/ProjetGL/dev-wine-helper/wine_helper/data/wine_helper_data_wines.csv")
-"""
-print("FLOAT: ")
-print(type(adapt_type_number("6,890")))
-print("\n\n")
-print("INT: ")
-print(type(adapt_type_number("64554")))
-print("\n\n")
-print("OTHER: ")
-print(type(adapt_type_number("6,890-45563")))
-print("\n\n")
-"""
+#read_csv_file("/Users/aymesr/Desktop/Cours/Cours3A/ProjetGL/dev-wine-helper/wine_helper/data/wine_helper_data_wines.csv")
+#print("LE RESULTAT DE ROUGE EST:" + search_translation("/Users/aymesr/Desktop/Cours/Cours3A/ProjetGL/dev-wine-helper/wine_helper/data/translate_file.csv",2,1,"rouge"))

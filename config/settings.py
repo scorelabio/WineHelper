@@ -132,3 +132,16 @@ STATIC_URL = '/static/'
 SLACK_CLIENT_ID = "91470583841.124982239781"
 SLACK_CLIENT_SECRET = "08c0718cfa34de26fde5783f8d99f17a"
 SLACK_VERIFICATION_TOKEN = "rQRhWgTRgJxNbtvJTroOSeWy"
+
+
+# DEFAULT SENTENCES RETURNED TO THE USER
+DONT_UNDERSTAND = 'Désolé je n\'ai pas compris...'
+INTRO_SENTENCE = 'Hey salut, toi ! Je suis là pour t\'aider à choisir le meilleur vin qui impressionnera tous tes amis. Dis-moi, pour quelle occasion veux-tu un vin ?'
+ASK_COLOR = 'Quel type de vin recherches-tu ? (rouge, blanc, sucré)'
+ASK_PRICE = 'Quel est ton budget ? (exemple : "entre 10 et 20 euros", "moins de 100 euros")'
+ASK_APPELATION = 'Souhaites-tu une appellation de vin particulière ? (medoc, haut medoc, entre deux mers, ...)'
+ASK_VINTAGE = 'Une préférence de millésime (2009, 2010, ...) ?'
+ASK_ADJUSTMENT = 'Les vins proposés te conviennent-ils ?'
+ASK_DINER_TYPE = 'Pour quel repas ?'
+ASK_MEAL_CHOICE = 'Pour quel type de plat souhaites-tu un vin ? (poulet, boeuf, veau, ...)'
+CONCLUSION_SENTENCE = 'Merci d\'avoir utilisé mes services, je vais me coucher. Dis-moi bonjour pour me réveiller si tu as besoin de moi !'

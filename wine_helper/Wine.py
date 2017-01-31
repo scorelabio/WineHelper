@@ -3,14 +3,13 @@ class Wine:
     This class represents a Wine.
     """
 
-    def __init__(self, appellation, name, vintage, price, global_score, color, taste):
+    def __init__(self, appellation, name, vintage, price, global_score, color):
         self.appellation = appellation
         self.name = name
         self.vintage = vintage
         self.price = price
         self.global_score = global_score
         self.color = color
-        self.taste = taste
 
 
     def get_appellation(self):
@@ -37,10 +36,6 @@ class Wine:
         return self.color
 
 
-    def get_taste(self):
-        return self.taste
-
-
     def __str__(self):
         return ("Wine("
                 "appellation: '{0}',"
@@ -51,17 +46,4 @@ class Wine:
                     self.appellation,
                     self.name,
                     str(self.vintage)
-                )
-
-
-    def __repr__(self):
-        return ("Wine("
-                "appellation: '{0}',"
-                " name: '{1}',"
-                " vintage: {2},"
-                ")"
-                ).format(
-                    self.appellation,
-                    self.name,
-                    self.vintage
                 )
